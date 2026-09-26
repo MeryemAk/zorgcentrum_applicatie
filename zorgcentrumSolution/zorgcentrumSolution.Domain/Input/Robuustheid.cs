@@ -3,8 +3,28 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using zorgcentrumSolution.Domain.Person;
 
-namespace zorgcentrumSolution.Domain.Input; 
+namespace zorgcentrumSolution.Domain.Input;
+
+public static class Foutbestand {
+    public static void SchrijfFoutbestand(string pad, List<Error> errors) {
+        // bestand leegmaken
+        File.WriteAllText(pad, "");
+
+        foreach (var error in errors) {
+            File.AppendAllText(pad, $"Lijn: {error.LijnNummer}\n");
+            File.AppendAllText(pad, $"Inhoud: {error.LijnInhoud}\n");
+            File.AppendAllText(pad, "Fouten:\n");
+
+            foreach (var bericht in error.Beschrijving) {
+                File.AppendAllText(pad, $" - {bericht}\n");
+            }
+
+            File.AppendAllText(pad, "\n");
+        }
+    }
+}
 public class RobuustheidAfspraken {
     public List<afspraak> Afspraken = new();
     public List<Error> errors = new();
@@ -13,7 +33,7 @@ public class RobuustheidAfspraken {
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
-            SchrijfFoutbestand("Fouten_Afspraken.txt", errors);
+            Foutbestand.SchrijfFoutbestand("Fouten_Afspraken.txt", errors);
             return;
         } // geef error indien bestand niet bestaat
 
@@ -49,6 +69,10 @@ public class RobuustheidAfspraken {
             if (!int.TryParse(velden[5], out int rrnArts))
                 foutmeldingen.Add($"Ongeldig RRN arts: {velden[5]}");
 
+            // extra 1
+
+            // extra 2
+
             if (foutmeldingen.Count > 0) {
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
@@ -69,24 +93,60 @@ public class RobuustheidAfspraken {
             });
         }
     }
+}
 
+public class RobuustheidArtsen {
+    public List<arts> Arts = new();
+    public List<Error> errors = new();
+    public RobuustheidArtsen() {
+        string bestandnaam = "Artsen.csv";
 
+        if (!File.Exists(bestandnaam)) {
+            errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
+            Foutbestand.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
+            return;
+        } // geef error indien bestand niet bestaat
 
-    // foutbestand genereren
-    private void SchrijfFoutbestand(string pad, List<Error> errors) {
-        // Maak het bestand leeg elke keer dat input files ingehaald worden
-        File.WriteAllText(pad, "");
+        string[] regels = File.ReadAllLines(bestandnaam);
 
-        foreach (var error in errors) {
-            File.AppendAllText(pad, $"Lijn: {error.LijnNummer}\n");
-            File.AppendAllText(pad, $"Inhoud: {error.LijnInhoud}\n");
-            File.AppendAllText(pad, "Fouten:\n");
+        for (int index = 0; index < regels.Length; index++) {
 
-            foreach (var bericht in error.Beschrijving) {
-                File.AppendAllText(pad, $" - {bericht}\n");
+            string regel = regels[index];
+            string[] velden = regel.Split(";");
+
+            List<string> foutmeldingen = new();
+
+            if (velden.Length < 6) {
+                foutmeldingen.Add("Te weinig velden");
             }
 
-            File.AppendAllText(pad, "\n");
+
+            if (!int.TryParse(velden[0], out int rrn))
+                foutmeldingen.Add($"Ongeldig RijksregisterNr: {velden[0]}");
+
+            if (string.IsNullOrWhiteSpace(velden[1]))
+                foutmeldingen.Add($"Ongeldig naam: {velden[1]}");
+
+            if (string.IsNullOrWhiteSpace(velden[2]))
+                foutmeldingen.Add($"Ongeldige voornaam: {velden[2]}");
+
+            if (!int.TryParse(velden[3], out int riziv))
+                foutmeldingen.Add($"Ongeldige RIZIV: {velden[3]}");
+
+            if (string.IsNullOrWhiteSpace(velden[4]))
+                foutmeldingen.Add($"Ongeldig specialisatie: {velden[4]}");
+
+            if (string.IsNullOrWhiteSpace(velden[5]))
+                foutmeldingen.Add($"Ongeldig afdeling: {velden[5]}");
+
+            if (foutmeldingen.Count > 0) {
+                errors.Add(Error.Create(index + 1, regel, foutmeldingen));
+                continue;
+            }
+
+            // Maak arts object indien alles voldoet
+            Arts.Add(new arts(rrn, velden[1], velden[2], riziv, velden[4], velden[5]));
         }
+        Foutbestand.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
     }
 }
