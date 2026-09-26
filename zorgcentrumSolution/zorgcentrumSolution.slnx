@@ -5,4 +5,5 @@
   <Folder Name="/03 Domain/">
     <Project Path="zorgcentrumSolution.Domain/zorgcentrumSolution.Domain.csproj" />
   </Folder>
+  <Project Path="zorgcentrumSolution.App/zorgcentrumSolution.App.csproj" Id="9b9e8413-e67b-4baf-9d93-42db2c269025" />
 </Solution>

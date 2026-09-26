@@ -29,7 +29,7 @@ public class RobuustheidAfspraken {
     public List<afspraak> Afspraken = new();
     public List<Error> errors = new();
     public RobuustheidAfspraken() {
-        string bestandnaam = "Afspraken.csv";
+        string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Afspraken.csv");
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
@@ -99,7 +99,7 @@ public class RobuustheidArtsen {
     public List<arts> Arts = new();
     public List<Error> errors = new();
     public RobuustheidArtsen() {
-        string bestandnaam = "Artsen.csv";
+        string bestandnaam = @"B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
@@ -110,6 +110,8 @@ public class RobuustheidArtsen {
         string[] regels = File.ReadAllLines(bestandnaam);
 
         for (int index = 0; index < regels.Length; index++) {
+
+            // exclude line 1 from input check
 
             string regel = regels[index];
             string[] velden = regel.Split(";");
@@ -123,6 +125,7 @@ public class RobuustheidArtsen {
 
             if (!int.TryParse(velden[0], out int rrn))
                 foutmeldingen.Add($"Ongeldig RijksregisterNr: {velden[0]}");
+            // rrn bevat puntjes en streepjes - controle herzien
 
             if (string.IsNullOrWhiteSpace(velden[1]))
                 foutmeldingen.Add($"Ongeldig naam: {velden[1]}");
@@ -132,6 +135,7 @@ public class RobuustheidArtsen {
 
             if (!int.TryParse(velden[3], out int riziv))
                 foutmeldingen.Add($"Ongeldige RIZIV: {velden[3]}");
+            //riziv bevat streepjes - controle herzien
 
             if (string.IsNullOrWhiteSpace(velden[4]))
                 foutmeldingen.Add($"Ongeldig specialisatie: {velden[4]}");

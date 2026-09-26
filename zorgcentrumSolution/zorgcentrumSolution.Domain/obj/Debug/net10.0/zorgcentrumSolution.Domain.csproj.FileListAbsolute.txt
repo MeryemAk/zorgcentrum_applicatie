@@ -4,3 +4,13 @@ B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcentrumSolution.Domain.AssemblyInfo.cs
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcentrumSolution.Domain.csproj.CoreCompileInputs.cache
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcentrumSolution.Domain.sourcelink.json
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\bin\Debug\net10.0\zorgcentrumSolution.Domain.deps.json
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\bin\Debug\net10.0\zorgcentrumSolution.Domain.dll
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\bin\Debug\net10.0\zorgcentrumSolution.Domain.pdb
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\bin\Debug\net10.0\BuildingBlocks.dll
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\bin\Debug\net10.0\BuildingBlocks.pdb
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcent.4318ED04.Up2Date
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcentrumSolution.Domain.dll
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\refint\zorgcentrumSolution.Domain.dll
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\zorgcentrumSolution.Domain.pdb
+B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\obj\Debug\net10.0\ref\zorgcentrumSolution.Domain.dll
