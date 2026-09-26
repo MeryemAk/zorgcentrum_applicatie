@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace zorgcentrumSolution.Domain;
 
-namespace zorgcentrumSolution.Domain; 
 public class afdeling {
     public string Code { get; set; }
     public string Specialiteit { get; set; }

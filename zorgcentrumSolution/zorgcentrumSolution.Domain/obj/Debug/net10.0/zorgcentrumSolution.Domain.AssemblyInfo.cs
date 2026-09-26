@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zorgcentrumSolution.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60adc90da72edc228a4c035bb5b7de6c36db288f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e9ec620421d0d8d1437daaf0ae4df0aa16571f")]
 [assembly: System.Reflection.AssemblyProductAttribute("zorgcentrumSolution.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zorgcentrumSolution.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

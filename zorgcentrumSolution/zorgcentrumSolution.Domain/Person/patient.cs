@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace zorgcentrumSolution.Domain;
+namespace zorgcentrumSolution.Domain.Person;
 
 public class patient : persoon {
     public int RRNPatient {  get; set; }

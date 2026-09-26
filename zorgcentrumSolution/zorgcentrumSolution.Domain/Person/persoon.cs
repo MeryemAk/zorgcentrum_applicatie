@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace zorgcentrumSolution.Domain; 
+namespace zorgcentrumSolution.Domain.Person; 
 public abstract class persoon : IComparable<persoon> {
     public string Naam { get; set; }
     public string Voornaam { get; set; }

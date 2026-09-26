@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace zorgcentrumSolution.Domain; 
+namespace zorgcentrumSolution.Domain.Person; 
 public class arts : persoon {
     public int RRNArts { get; set; }
     public int RIZIV { get; set; }
