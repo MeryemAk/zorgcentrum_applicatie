@@ -1,0 +1,3780 @@
+Lijn: 1
+Inhoud: RijksregisterNr;Naam;Voornaam;RIZIV;Specialisatie;Afdelingen
+Fouten:
+ - Ongeldig RijksregisterNr: RijksregisterNr
+ - Ongeldige RIZIV: RIZIV
+
+Lijn: 2
+Inhoud: 61.08.05-432.76;ABDUL-LATIF;KHALID;1-79010-52-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.08.05-432.76
+ - Ongeldige RIZIV: 1-79010-52-100
+
+Lijn: 3
+Inhoud: 69.08.06-893.44;ACCOU;GERALDINE;1-48841-54-370;{OPHT};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.08.06-893.44
+ - Ongeldige RIZIV: 1-48841-54-370
+
+Lijn: 4
+Inhoud: 96.05.02-114.34;ACHTERGAEL;WIM;1-76821-10-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.05.02-114.34
+ - Ongeldige RIZIV: 1-76821-10-660
+
+Lijn: 5
+Inhoud: 73.12.28-670.10;ADAM;VALERIE;1-19942-47-620;{PNEU};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.12.28-670.10
+ - Ongeldige RIZIV: 1-19942-47-620
+
+Lijn: 6
+Inhoud: 57.04.30-901.06;AERDEN;THOMAS;1-75402-71-520;{STOM};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.04.30-901.06
+ - Ongeldige RIZIV: 1-75402-71-520
+
+Lijn: 7
+Inhoud: 55.09.04-697.13;AERTS;PATRIK;1-35224-91-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.09.04-697.13
+ - Ongeldige RIZIV: 1-35224-91-960
+
+Lijn: 8
+Inhoud: 99.09.10-757.18;AL- GHABRA;WAEL;1-02192-69-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.09.10-757.18
+ - Ongeldige RIZIV: 1-02192-69-180
+
+Lijn: 9
+Inhoud: 84.09.12-510.84;ALEKSANDROVA;NATALIJA;1-49944-18-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.09.12-510.84
+ - Ongeldige RIZIV: 1-49944-18-000
+
+Lijn: 10
+Inhoud: 66.04.29-267.83;AMANT;MARC;1-44568-59-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.04.29-267.83
+ - Ongeldige RIZIV: 1-44568-59-660
+
+Lijn: 11
+Inhoud: 85.03.30-282.42;ANASTASIOS;MILKAS;1-82076-90-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.03.30-282.42
+ - Ongeldige RIZIV: 1-82076-90-730
+
+Lijn: 12
+Inhoud: 95.11.18-381.84;ASPESLAGH;LORE;1-39865-09-450;{UROL};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.11.18-381.84
+ - Ongeldige RIZIV: 1-39865-09-450
+
+Lijn: 13
+Inhoud: 78.01.12-857.40;ATES;RECAI;1-76041-14-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.01.12-857.40
+ - Ongeldige RIZIV: 1-76041-14-960
+
+Lijn: 14
+Inhoud: 69.12.10-872.70;BAEYENS;MALIKA;1-48835-60-100;{ANES};{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.12.10-872.70
+ - Ongeldige RIZIV: 1-48835-60-100
+
+Lijn: 15
+Inhoud: 95.09.25-719.07;BAILLEUL;ELS;1-47028-24-860;{BIOL};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.09.25-719.07
+ - Ongeldige RIZIV: 1-47028-24-860
+
+Lijn: 16
+Inhoud: 52.01.20-006.08;BAMELIS;MIA;1-08852-79-550;{DERM};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 52.01.20-006.08
+ - Ongeldige RIZIV: 1-08852-79-550
+
+Lijn: 17
+Inhoud: 87.06.01-117.73;BARBATO;EMANUELE;1-47329-14-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.06.01-117.73
+ - Ongeldige RIZIV: 1-47329-14-730
+
+Lijn: 18
+Inhoud: 66.11.17-832.24;BASHI;SAMUEL;1-14589-43-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.11.17-832.24
+ - Ongeldige RIZIV: 1-14589-43-480
+
+Lijn: 19
+Inhoud: 80.09.02-281.44;BEELEN;ROEL;1-73453-80-140;{CHIR};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.09.02-281.44
+ - Ongeldige RIZIV: 1-73453-80-140
+
+Lijn: 20
+Inhoud: 95.07.30-667.89;BEHAEGHE;MAXIM;1-37528-18-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.07.30-667.89
+ - Ongeldige RIZIV: 1-37528-18-000
+
+Lijn: 21
+Inhoud: 98.01.21-189.82;BEL;DORIAN;1-11951-11-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.01.21-189.82
+ - Ongeldige RIZIV: 1-11951-11-180
+
+Lijn: 22
+Inhoud: 63.12.17-890.07;BELLON;JAN;1-45181-28-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 63.12.17-890.07
+ - Ongeldige RIZIV: 1-45181-28-480
+
+Lijn: 23
+Inhoud: 34.01.16-467.65;BERENDES;BEREND;1-09476-37-620;{PNEU};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.01.16-467.65
+ - Ongeldige RIZIV: 1-09476-37-620
+
+Lijn: 24
+Inhoud: 68.06.16-559.43;BERGHMANS;BEA;1-08929-02-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.06.16-559.43
+ - Ongeldige RIZIV: 1-08929-02-588
+
+Lijn: 25
+Inhoud: 47.09.26-521.40;BERMPEIS;KONSTANTINOS;1-02360-79-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.09.26-521.40
+ - Ongeldige RIZIV: 1-02360-79-730
+
+Lijn: 26
+Inhoud: 33.10.12-594.03;BERT;CHRISTOPHE;1-08801-33-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.10.12-594.03
+ - Ongeldige RIZIV: 1-08801-33-770
+
+Lijn: 27
+Inhoud: 54.12.10-395.38;BEUNK;JAN;1-36267-18-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.12.10-395.38
+ - Ongeldige RIZIV: 1-36267-18-480
+
+Lijn: 28
+Inhoud: 73.06.23-000.12;BIEBAUT;ASTRID;1-15095-71-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.06.23-000.12
+ - Ongeldige RIZIV: 1-15095-71-770
+
+Lijn: 29
+Inhoud: 34.12.27-175.07;BILLIOUW;JEAN;1-43478-82-590;{NEFR};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.12.27-175.07
+ - Ongeldige RIZIV: 1-43478-82-590
+
+Lijn: 30
+Inhoud: 84.12.03-964.18;BLADT;OLIVIER;1-36274-11-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.12.03-964.18
+ - Ongeldige RIZIV: 1-36274-11-180
+
+Lijn: 31
+Inhoud: 33.09.17-986.36;BLANCKAERT;KATRIEN;1-36524-52-590;{NEFR};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.09.17-986.36
+ - Ongeldige RIZIV: 1-36524-52-590
+
+Lijn: 32
+Inhoud: 58.11.09-575.62;BLYKERS;JAN;1-79163-93-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.11.09-575.62
+ - Ongeldige RIZIV: 1-79163-93-960
+
+Lijn: 33
+Inhoud: 01.08.25-841.71;BOCKSTAEL;BRECHT;1-79258-95-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.08.25-841.71
+ - Ongeldige RIZIV: 1-79258-95-100
+
+Lijn: 34
+Inhoud: 92.05.25-506.32;BODEA;OANA;1-59175-02-730;{CARD};{PAAN}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.05.25-506.32
+ - Ongeldige RIZIV: 1-59175-02-730
+
+Lijn: 35
+Inhoud: 79.04.12-476.75;BOELAERT;IGNACE;1-08445-01-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.04.12-476.75
+ - Ongeldige RIZIV: 1-08445-01-180
+
+Lijn: 36
+Inhoud: 04.06.30-101.68;BOELAERT;KRISTEL;1-07430-46-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 04.06.30-101.68
+ - Ongeldige RIZIV: 1-07430-46-588
+
+Lijn: 37
+Inhoud: 63.01.15-951.26;BOEYKENS;GILLES;1-02549-68-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 63.01.15-951.26
+ - Ongeldige RIZIV: 1-02549-68-000
+
+Lijn: 38
+Inhoud: 89.11.05-479.56;BOGAERTS;ELINE;1-79121-38-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.11.05-479.56
+ - Ongeldige RIZIV: 1-79121-38-660
+
+Lijn: 39
+Inhoud: 78.11.14-582.34;BOGAERTS;JEAN;1-43143-29-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.11.14-582.34
+ - Ongeldige RIZIV: 1-43143-29-180
+
+Lijn: 40
+Inhoud: 97.05.24-144.44;BONNE;LAWRENCE;1-48391-19-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.05.24-144.44
+ - Ongeldige RIZIV: 1-48391-19-180
+
+Lijn: 41
+Inhoud: 62.04.26-167.92;BOOTSMA;FLORIANE;1-06530-03-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.04.26-167.92
+ - Ongeldige RIZIV: 1-06530-03-480
+
+Lijn: 42
+Inhoud: 76.01.23-958.52;BOSMA;WOUTER;1-01849-56-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 76.01.23-958.52
+ - Ongeldige RIZIV: 1-01849-56-100
+
+Lijn: 43
+Inhoud: 91.05.08-820.13;BOTERBERGH;KIM;1-48109-10-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.05.08-820.13
+ - Ongeldige RIZIV: 1-48109-10-140
+
+Lijn: 44
+Inhoud: 70.10.30-239.13;BOUCHEZ;STEFAAN;1-46688-73-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.10.30-239.13
+ - Ongeldige RIZIV: 1-46688-73-100
+
+Lijn: 45
+Inhoud: 95.08.16-103.13;BOUCKAERT;MIRIAM;1-47708-23-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.08.16-103.13
+ - Ongeldige RIZIV: 1-47708-23-770
+
+Lijn: 46
+Inhoud: 61.10.17-828.13;BOUCKENOOGHE;ISABEL;1-47686-45-140;{CHIR};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.10.17-828.13
+ - Ongeldige RIZIV: 1-47686-45-140
+
+Lijn: 47
+Inhoud: 40.11.16-896.26;BOULONNE;JOSEPH;1-41691-26-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.11.16-896.26
+ - Ongeldige RIZIV: 1-41691-26-000
+
+Lijn: 48
+Inhoud: 82.02.14-347.96;BOURGEOIS;ETIENNE;1-41964-44-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.02.14-347.96
+ - Ongeldige RIZIV: 1-41964-44-480
+
+Lijn: 49
+Inhoud: 90.11.06-259.73;BOUSSEMAERE;VEERLE;1-47146-03-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.11.06-259.73
+ - Ongeldige RIZIV: 1-47146-03-660
+
+Lijn: 50
+Inhoud: 79.09.03-309.62;BOUWEN;LUC;1-17843-12-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.09.03-309.62
+ - Ongeldige RIZIV: 1-17843-12-480
+
+Lijn: 51
+Inhoud: 41.01.12-652.50;BRAL;SAMUEL;1-47264-79-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 41.01.12-652.50
+ - Ongeldige RIZIV: 1-47264-79-960
+
+Lijn: 52
+Inhoud: 64.08.26-957.51;BRIL;TANIA;1-16983-96-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.08.26-957.51
+ - Ongeldige RIZIV: 1-16983-96-770
+
+Lijn: 53
+Inhoud: 89.02.15-042.33;BRONDEEL;LUCIEN;1-42942-36-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.02.15-042.33
+ - Ongeldige RIZIV: 1-42942-36-960
+
+Lijn: 54
+Inhoud: 64.10.05-008.92;BROOK;NICHOLAS;1-82447-10-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.10.05-008.92
+ - Ongeldige RIZIV: 1-82447-10-770
+
+Lijn: 55
+Inhoud: 56.03.04-246.55;BROUWERS;SOFIE;1-98830-20-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.03.04-246.55
+ - Ongeldige RIZIV: 1-98830-20-660
+
+Lijn: 56
+Inhoud: 44.11.08-054.28;BRUGADA TERRADELLAS;PEDRO;1-45635-59-730;{CARD};{NEUR}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.11.08-054.28
+ - Ongeldige RIZIV: 1-45635-59-730
+
+Lijn: 57
+Inhoud: 04.01.04-014.71;BRUIJLANTS;BRUNO;1-07607-63-690;{PEDI};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 04.01.04-014.71
+ - Ongeldige RIZIV: 1-07607-63-690
+
+Lijn: 58
+Inhoud: 57.06.12-458.33;BUSSCHOP;HANNA;1-48857-38-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.06.12-458.33
+ - Ongeldige RIZIV: 1-48857-38-480
+
+Lijn: 59
+Inhoud: 85.09.29-901.77;BUYS;SARA;1-47690-41-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.09.29-901.77
+ - Ongeldige RIZIV: 1-47690-41-100
+
+Lijn: 60
+Inhoud: 56.09.01-391.42;BYTTEBIER;PAUL;1-37392-57-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.09.01-391.42
+ - Ongeldige RIZIV: 1-37392-57-480
+
+Lijn: 61
+Inhoud: 94.11.18-315.32;CAEKEBEKE;JOHAN;1-44010-35-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.11.18-315.32
+ - Ongeldige RIZIV: 1-44010-35-770
+
+Lijn: 62
+Inhoud: 43.01.14-501.86;CAMMU;GUY;1-46440-30-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 43.01.14-501.86
+ - Ongeldige RIZIV: 1-46440-30-100
+
+Lijn: 63
+Inhoud: 75.10.01-707.35;CANDAELE;ANN-SOPHIE;1-82348-12-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.10.01-707.35
+ - Ongeldige RIZIV: 1-82348-12-000
+
+Lijn: 64
+Inhoud: 36.06.05-157.06;CARETTE;RIK;1-47345-95-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.06.05-157.06
+ - Ongeldige RIZIV: 1-47345-95-100
+
+Lijn: 65
+Inhoud: 61.06.11-663.39;CARPRIEAUX;MARILYN;1-47719-12-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.06.11-663.39
+ - Ongeldige RIZIV: 1-47719-12-000
+
+Lijn: 66
+Inhoud: 58.01.24-607.92;CASNEUF;VEERLE;1-36158-30-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.01.24-607.92
+ - Ongeldige RIZIV: 1-36158-30-588
+
+Lijn: 67
+Inhoud: 84.05.07-131.03;CASSELMAN;FILIP;1-07965-93-140;{CHIR};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.05.07-131.03
+ - Ongeldige RIZIV: 1-07965-93-140
+
+Lijn: 68
+Inhoud: 54.10.24-979.87;CASTEELS;PHYLINE;1-39241-51-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.10.24-979.87
+ - Ongeldige RIZIV: 1-39241-51-588
+
+Lijn: 69
+Inhoud: 51.08.12-647.23;CASTELEIN;THOMAS;1-99212-26-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.08.12-647.23
+ - Ongeldige RIZIV: 1-99212-26-730
+
+Lijn: 70
+Inhoud: 89.10.01-919.20;CATTOIR;LIEN;1-48558-46-860;{BIOL};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.10.01-919.20
+ - Ongeldige RIZIV: 1-48558-46-860
+
+Lijn: 71
+Inhoud: 62.11.17-011.82;CATTOIR;STEFFI;1-48646-55-100;{ANES};{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.11.17-011.82
+ - Ongeldige RIZIV: 1-48646-55-100
+
+Lijn: 72
+Inhoud: 93.09.22-176.16;CAVENS;DOMINIQUE;1-82328-32-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.09.22-176.16
+ - Ongeldige RIZIV: 1-82328-32-480
+
+Lijn: 73
+Inhoud: 60.05.23-975.18;CHAPA;SOFIIA;1-12912-29-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.05.23-975.18
+ - Ongeldige RIZIV: 1-12912-29-660
+
+Lijn: 74
+Inhoud: 50.06.29-024.04;CHIAIRI;IBRAHIM;1-01023-81-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 50.06.29-024.04
+ - Ongeldige RIZIV: 1-01023-81-960
+
+Lijn: 75
+Inhoud: 67.02.08-372.33;CHRISTIAENS;EVELIEN;1-37237-18-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.02.08-372.33
+ - Ongeldige RIZIV: 1-37237-18-588
+
+Lijn: 76
+Inhoud: 99.12.09-445.90;CHRISTIAENS;KAREL;1-47321-22-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.12.09-445.90
+ - Ongeldige RIZIV: 1-47321-22-000
+
+Lijn: 77
+Inhoud: 50.11.12-685.82;CHYS;STEFANIE;1-49263-20-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 50.11.12-685.82
+ - Ongeldige RIZIV: 1-49263-20-000
+
+Lijn: 78
+Inhoud: 62.07.10-138.40;CLAUS;BART;1-45671-23-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.07.10-138.40
+ - Ongeldige RIZIV: 1-45671-23-480
+
+Lijn: 79
+Inhoud: 60.07.25-692.61;CLAUS;FILIP;1-46961-91-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.07.25-692.61
+ - Ongeldige RIZIV: 1-46961-91-960
+
+Lijn: 80
+Inhoud: 90.09.05-414.31;CLAUS;GUY;1-46303-70-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.09.05-414.31
+ - Ongeldige RIZIV: 1-46303-70-960
+
+Lijn: 81
+Inhoud: 80.02.19-374.71;CLAUS;MARGOT;1-48458-49-370;{OPHT};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.02.19-374.71
+ - Ongeldige RIZIV: 1-48458-49-370
+
+Lijn: 82
+Inhoud: 01.12.06-476.71;CLAUS;PIETER-JAN;1-08900-36-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.12.06-476.71
+ - Ongeldige RIZIV: 1-08900-36-000
+
+Lijn: 83
+Inhoud: 94.04.04-619.02;COCKX;KOENRAAD;1-44331-05-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.04.04-619.02
+ - Ongeldige RIZIV: 1-44331-05-960
+
+Lijn: 84
+Inhoud: 73.03.22-713.84;COENEN;PASCALE;1-08692-45-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.03.22-713.84
+ - Ongeldige RIZIV: 1-08692-45-100
+
+Lijn: 85
+Inhoud: 95.08.05-901.30;COLLE;ISABELLE;1-08432-14-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.08.05-901.30
+ - Ongeldige RIZIV: 1-08432-14-588
+
+Lijn: 86
+Inhoud: 99.05.19-289.91;COLLET BORTONE;CARLOS;1-39469-17-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.05.19-289.91
+ - Ongeldige RIZIV: 1-39469-17-730
+
+Lijn: 87
+Inhoud: 90.06.22-542.51;COLPAERT;BODINE;1-12588-86-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.06.22-542.51
+ - Ongeldige RIZIV: 1-12588-86-588
+
+Lijn: 88
+Inhoud: 01.10.12-406.71;COLPAERT;JAN;1-48781-17-140;{CHIR};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.10.12-406.71
+ - Ongeldige RIZIV: 1-48781-17-140
+
+Lijn: 89
+Inhoud: 39.06.05-888.17;COOREMAN;GILBERT;1-43953-92-340;{GYNA};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.06.05-888.17
+ - Ongeldige RIZIV: 1-43953-92-340
+
+Lijn: 90
+Inhoud: 95.05.03-480.05;COPPENS;GEERTRUI;1-36974-87-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.05.03-480.05
+ - Ongeldige RIZIV: 1-36974-87-588
+
+Lijn: 91
+Inhoud: 51.03.26-034.84;COPPENS;GREET;1-00229-69-370;{OPHT};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.03.26-034.84
+ - Ongeldige RIZIV: 1-00229-69-370
+
+Lijn: 92
+Inhoud: 71.04.10-869.59;COPPENS;HERMAN;1-43586-71-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.04.10-869.59
+ - Ongeldige RIZIV: 1-43586-71-000
+
+Lijn: 93
+Inhoud: 45.08.04-506.84;CORNELIS;GUDRUN;1-37249-06-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.08.04-506.84
+ - Ongeldige RIZIV: 1-37249-06-588
+
+Lijn: 94
+Inhoud: 00.08.21-903.68;CORNELIS;STEF;1-79179-77-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.08.21-903.68
+ - Ongeldige RIZIV: 1-79179-77-100
+
+Lijn: 95
+Inhoud: 66.05.19-489.71;CORSELLIS;MICHAEL;1-14263-13-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.05.19-489.71
+ - Ongeldige RIZIV: 1-14263-13-660
+
+Lijn: 96
+Inhoud: 61.03.03-734.90;COSCO;MARIA;1-47712-19-780;{PSYC};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.03.03-734.90
+ - Ongeldige RIZIV: 1-47712-19-780
+
+Lijn: 97
+Inhoud: 37.04.10-679.20;COUSSEMENT;KIM;1-48482-25-830;{REVA};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.04.10-679.20
+ - Ongeldige RIZIV: 1-48482-25-830
+
+Lijn: 98
+Inhoud: 67.12.21-891.67;CRAEYE;BART;1-48077-42-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.12.21-891.67
+ - Ongeldige RIZIV: 1-48077-42-000
+
+Lijn: 99
+Inhoud: 64.07.15-832.14;CROO;ALEXANDER;1-48631-70-140;{CHIR};{GASTG}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.07.15-832.14
+ - Ongeldige RIZIV: 1-48631-70-140
+
+Lijn: 100
+Inhoud: 45.06.17-347.33;CROONENBORGHS;GARMT;1-47696-35-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.06.17-347.33
+ - Ongeldige RIZIV: 1-47696-35-100
+
+Lijn: 101
+Inhoud: 47.05.20-941.63;CUYPERS;SOFIE;1-47673-58-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.05.20-941.63
+ - Ongeldige RIZIV: 1-47673-58-660
+
+Lijn: 102
+Inhoud: 51.04.25-200.52;CYPERS;GERT;1-09702-05-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.04.25-200.52
+ - Ongeldige RIZIV: 1-09702-05-770
+
+Lijn: 103
+Inhoud: 64.05.27-733.30;DAELEWIJN;HELEEN;1-82164-02-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.05.27-733.30
+ - Ongeldige RIZIV: 1-82164-02-000
+
+Lijn: 104
+Inhoud: 78.01.18-857.54;DALED-ROSSEEL;BARBARA;1-09310-09-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.01.18-857.54
+ - Ongeldige RIZIV: 1-09310-09-770
+
+Lijn: 105
+Inhoud: 32.10.26-705.33;DAMEN;ELIZABET;1-99681-42-690;{PEDI};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 32.10.26-705.33
+ - Ongeldige RIZIV: 1-99681-42-690
+
+Lijn: 106
+Inhoud: 35.02.18-210.96;DAUW;JEROEN;1-37197-58-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.02.18-210.96
+ - Ongeldige RIZIV: 1-37197-58-730
+
+Lijn: 107
+Inhoud: 72.11.26-895.11;DAVID;KATHLEEN;1-99883-34-410;{ORL};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.11.26-895.11
+ - Ongeldige RIZIV: 1-99883-34-410
+
+Lijn: 108
+Inhoud: 46.08.16-499.43;DE BACKER;FRANK;1-44516-14-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.08.16-499.43
+ - Ongeldige RIZIV: 1-44516-14-660
+
+Lijn: 109
+Inhoud: 78.06.25-216.35;DE BACKER;PIETER;1-75491-79-450;{UROL};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.06.25-216.35
+ - Ongeldige RIZIV: 1-75491-79-450
+
+Lijn: 110
+Inhoud: 45.02.05-910.93;DE BEENHOUWER;HANS;1-05328-14-860;{BIOL};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.02.05-910.93
+ - Ongeldige RIZIV: 1-05328-14-860
+
+Lijn: 111
+Inhoud: 91.01.20-330.18;DE BLAERE;MARLIES;1-48492-15-340;{GYNA};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.01.20-330.18
+ - Ongeldige RIZIV: 1-48492-15-340
+
+Lijn: 112
+Inhoud: 36.05.27-670.87;DE BOCK;CASPER;1-00981-34-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.05.27-670.87
+ - Ongeldige RIZIV: 1-00981-34-100
+
+Lijn: 113
+Inhoud: 95.03.20-623.17;DE BONDT;PIETER;1-17974-75-970;{NUCL};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.03.20-623.17
+ - Ongeldige RIZIV: 1-17974-75-970
+
+Lijn: 114
+Inhoud: 89.10.02-346.78;DE BOULLE;KOENRAAD;1-45041-71-550;{DERM};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.10.02-346.78
+ - Ongeldige RIZIV: 1-45041-71-550
+
+Lijn: 115
+Inhoud: 39.04.21-584.21;DE BRUCKER;SOETKIN;1-48893-02-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.04.21-584.21
+ - Ongeldige RIZIV: 1-48893-02-588
+
+Lijn: 116
+Inhoud: 40.12.21-848.28;DE BRUYNE;BERNARD;1-45384-19-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.12.21-848.28
+ - Ongeldige RIZIV: 1-45384-19-730
+
+Lijn: 117
+Inhoud: 34.03.07-149.85;DE BUYSSER;INGE;1-01471-78-780;{PSYC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.03.07-149.85
+ - Ongeldige RIZIV: 1-01471-78-780
+
+Lijn: 118
+Inhoud: 48.01.26-037.04;DE CLERCK;MATTI;1-47194-52-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.01.26-037.04
+ - Ongeldige RIZIV: 1-47194-52-770
+
+Lijn: 119
+Inhoud: 65.12.26-452.23;DE CLERCQ;CHARLOTTE;1-75022-63-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.12.26-452.23
+ - Ongeldige RIZIV: 1-75022-63-000
+
+Lijn: 120
+Inhoud: 85.08.22-441.61;DE COCK;KEVIN;1-47610-24-830;{REVA};{GASTG}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.08.22-441.61
+ - Ongeldige RIZIV: 1-47610-24-830
+
+Lijn: 121
+Inhoud: 30.04.25-045.57;DE COSTER;JOHAN;1-17944-08-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.04.25-045.57
+ - Ongeldige RIZIV: 1-17944-08-140
+
+Lijn: 122
+Inhoud: 03.04.11-186.71;DE COURCY-IRELAND;WILLIAM;1-08873-63-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.04.11-186.71
+ - Ongeldige RIZIV: 1-08873-63-000
+
+Lijn: 123
+Inhoud: 42.08.26-096.62;DE DECKER;KOEN;1-18302-38-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.08.26-096.62
+ - Ongeldige RIZIV: 1-18302-38-100
+
+Lijn: 124
+Inhoud: 34.08.17-381.73;DE DEYN;LEEN;1-37011-50-780;{PSYC};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.08.17-381.73
+ - Ongeldige RIZIV: 1-37011-50-780
+
+Lijn: 125
+Inhoud: 75.11.30-694.58;DE GROEF;EVELIEN;1-76811-20-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.11.30-694.58
+ - Ongeldige RIZIV: 1-76811-20-100
+
+Lijn: 126
+Inhoud: 87.02.01-609.38;DE GROOTE;RUBEN;1-48462-45-450;{UROL};{GERC}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.02.01-609.38
+ - Ongeldige RIZIV: 1-48462-45-450
+
+Lijn: 127
+Inhoud: 77.09.29-662.51;DE HAES;INKE;1-38377-42-598;{HEMA};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 77.09.29-662.51
+ - Ongeldige RIZIV: 1-38377-42-598
+
+Lijn: 128
+Inhoud: 81.10.19-633.83;DE HAUWERE;BERNARD;1-18015-34-370;{OPHT};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.10.19-633.83
+ - Ongeldige RIZIV: 1-18015-34-370
+
+Lijn: 129
+Inhoud: 65.08.30-054.79;DE JAEGER;ANN;1-46526-41-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.08.30-054.79
+ - Ongeldige RIZIV: 1-46526-41-588
+
+Lijn: 130
+Inhoud: 75.09.22-818.63;DE JONGH;KAREN;1-47441-96-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.09.22-818.63
+ - Ongeldige RIZIV: 1-47441-96-100
+
+Lijn: 131
+Inhoud: 99.07.28-127.94;DE KEERSMAECKER;KELLY;1-09724-80-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.07.28-127.94
+ - Ongeldige RIZIV: 1-09724-80-100
+
+Lijn: 132
+Inhoud: 70.11.29-279.10;DE KEUKELEIRE;KATRIEN;1-47011-41-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.11.29-279.10
+ - Ongeldige RIZIV: 1-47011-41-180
+
+Lijn: 133
+Inhoud: 86.01.27-485.33;DE LAAT;MARK;1-98826-24-690;{PEDI};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.01.27-485.33
+ - Ongeldige RIZIV: 1-98826-24-690
+
+Lijn: 134
+Inhoud: 58.07.25-881.24;DE LAERE;SYLVIE;1-46937-18-140;{CHIR};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.07.25-881.24
+ - Ongeldige RIZIV: 1-46937-18-140
+
+Lijn: 135
+Inhoud: 79.11.21-827.85;DE LEEUW;KATHLEEN;1-19546-55-590;{NEFR};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.11.21-827.85
+ - Ongeldige RIZIV: 1-19546-55-590
+
+Lijn: 136
+Inhoud: 37.01.04-935.20;DE LEU;NICO;1-76959-66-583;{ENDO};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.01.04-935.20
+ - Ongeldige RIZIV: 1-76959-66-583
+
+Lijn: 137
+Inhoud: 36.01.11-993.22;DE LOECKER;KAREN;1-39883-88-370;{OPHT};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.01.11-993.22
+ - Ongeldige RIZIV: 1-39883-88-370
+
+Lijn: 138
+Inhoud: 76.01.20-115.15;DE LOOF;HILDA;1-44330-06-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 76.01.20-115.15
+ - Ongeldige RIZIV: 1-44330-06-960
+
+Lijn: 139
+Inhoud: 57.04.17-475.46;DE MAESENEER;HANNELORE;1-48640-61-690;{PEDI};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.04.17-475.46
+ - Ongeldige RIZIV: 1-48640-61-690
+
+Lijn: 140
+Inhoud: 92.04.23-603.85;DE MAESENEER;LILYANE;1-41677-40-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.04.23-603.85
+ - Ongeldige RIZIV: 1-41677-40-588
+
+Lijn: 141
+Inhoud: 00.07.11-749.71;DE MEESTER;DORIEN;1-79252-04-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.07.11-749.71
+ - Ongeldige RIZIV: 1-79252-04-180
+
+Lijn: 142
+Inhoud: 74.11.02-251.59;DE MEESTER;LIESBET;1-37707-33-790;{REUM};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.11.02-251.59
+ - Ongeldige RIZIV: 1-37707-33-790
+
+Lijn: 143
+Inhoud: 00.06.24-254.71;DE MEY;NATHALIE;1-47557-77-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.06.24-254.71
+ - Ongeldige RIZIV: 1-47557-77-100
+
+Lijn: 144
+Inhoud: 68.03.07-867.81;DE MEYER;GRIMBERT;1-36434-45-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.03.07-867.81
+ - Ongeldige RIZIV: 1-36434-45-730
+
+Lijn: 145
+Inhoud: 97.03.23-061.46;DE MOOR;ANYA;1-45987-95-550;{DERM};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.03.23-061.46
+ - Ongeldige RIZIV: 1-45987-95-550
+
+Lijn: 146
+Inhoud: 89.09.30-035.27;DE NAEYER;GEERT;1-36201-84-450;{UROL};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.09.30-035.27
+ - Ongeldige RIZIV: 1-36201-84-450
+
+Lijn: 147
+Inhoud: 72.09.07-277.21;DE NEVE;NIKOLAAS;1-47237-09-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.09.07-277.21
+ - Ongeldige RIZIV: 1-47237-09-100
+
+Lijn: 148
+Inhoud: 80.05.16-309.53;DE NORRE;FRANK;1-43620-37-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.05.16-309.53
+ - Ongeldige RIZIV: 1-43620-37-180
+
+Lijn: 149
+Inhoud: 55.01.26-555.21;DE OLIVEIRA;ELAYNE;1-11227-23-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.01.26-555.21
+ - Ongeldige RIZIV: 1-11227-23-588
+
+Lijn: 150
+Inhoud: 42.03.12-064.91;DE PAEPE;ANNELIES;1-36888-76-620;{PNEU};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.03.12-064.91
+ - Ongeldige RIZIV: 1-36888-76-620
+
+Lijn: 151
+Inhoud: 30.05.27-734.91;DE PIERRE;JACKY;1-44538-89-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.05.27-734.91
+ - Ongeldige RIZIV: 1-44538-89-660
+
+Lijn: 152
+Inhoud: 68.01.18-034.85;DE POTTER;BRUNO;1-48368-42-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.01.18-034.85
+ - Ongeldige RIZIV: 1-48368-42-770
+
+Lijn: 153
+Inhoud: 56.10.01-814.14;DE POTTER;TOM;1-76297-49-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.10.01-814.14
+ - Ongeldige RIZIV: 1-76297-49-730
+
+Lijn: 154
+Inhoud: 85.12.10-736.57;DE RAEDEMAEKER;KAAT;1-39367-22-410;{ORL};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.12.10-736.57
+ - Ongeldige RIZIV: 1-39367-22-410
+
+Lijn: 155
+Inhoud: 74.01.26-926.49;DE RAEVE;HENDRIK;1-07567-06-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.01.26-926.49
+ - Ongeldige RIZIV: 1-07567-06-000
+
+Lijn: 156
+Inhoud: 46.07.25-638.15;DE ROP;JONAS;1-99989-25-583;{ENDO};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.07.25-638.15
+ - Ongeldige RIZIV: 1-99989-25-583
+
+Lijn: 157
+Inhoud: 78.12.26-999.40;DE ROUCK;RUBEN;1-99740-80-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.12.26-999.40
+ - Ongeldige RIZIV: 1-99740-80-000
+
+Lijn: 158
+Inhoud: 51.07.01-265.49;DE SAEDELEER;BART;1-08174-78-620;{PNEU};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.07.01-265.49
+ - Ongeldige RIZIV: 1-08174-78-620
+
+Lijn: 159
+Inhoud: 92.02.17-420.46;DE SCHAMPHELAERE;ELIEN;1-38488-28-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.02.17-420.46
+ - Ongeldige RIZIV: 1-38488-28-770
+
+Lijn: 160
+Inhoud: 03.02.10-482.68;DE SCHOUWER;KOEN;1-99208-30-730;{CARD};{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.02.10-482.68
+ - Ongeldige RIZIV: 1-99208-30-730
+
+Lijn: 161
+Inhoud: 86.11.22-094.62;DE SCHRYVER;ELS;1-48572-32-410;{ORL};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.11.22-094.62
+ - Ongeldige RIZIV: 1-48572-32-410
+
+Lijn: 162
+Inhoud: 87.06.01-199.88;DE SCHRYVER;LORE;1-47299-44-410;{ORL};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.06.01-199.88
+ - Ongeldige RIZIV: 1-47299-44-410
+
+Lijn: 163
+Inhoud: 82.11.23-438.89;DE SMET;LIEVE;1-44623-04-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.11.23-438.89
+ - Ongeldige RIZIV: 1-44623-04-770
+
+Lijn: 164
+Inhoud: 37.01.15-757.62;DE STEUR;DIMITRI;1-36602-71-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.01.15-757.62
+ - Ongeldige RIZIV: 1-36602-71-960
+
+Lijn: 165
+Inhoud: 53.12.04-542.50;DE SUTTER;INGE;1-48617-84-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.12.04-542.50
+ - Ongeldige RIZIV: 1-48617-84-660
+
+Lijn: 166
+Inhoud: 42.04.30-363.35;DE VIS;MAARTEN;1-99273-62-583;{ENDO};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.04.30-363.35
+ - Ongeldige RIZIV: 1-99273-62-583
+
+Lijn: 167
+Inhoud: 63.01.21-385.24;DE VUYST;ELKE;1-00079-25-730;{CARD};{NEUR}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 63.01.21-385.24
+ - Ongeldige RIZIV: 1-00079-25-730
+
+Lijn: 168
+Inhoud: 46.09.26-553.84;DE VUYST;MANUEL;1-07221-61-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.09.26-553.84
+ - Ongeldige RIZIV: 1-07221-61-000
+
+Lijn: 169
+Inhoud: 54.12.25-391.77;DE WAELE;PAULUS;1-41268-61-690;{PEDI};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.12.25-391.77
+ - Ongeldige RIZIV: 1-41268-61-690
+
+Lijn: 170
+Inhoud: 96.07.06-032.10;DE WAELE;PHILIP;1-44321-15-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.07.06-032.10
+ - Ongeldige RIZIV: 1-44321-15-480
+
+Lijn: 171
+Inhoud: 69.07.18-582.85;DE WINTER;OLIVIER;1-36097-91-970;{NUCL};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.07.18-582.85
+ - Ongeldige RIZIV: 1-36097-91-970
+
+Lijn: 172
+Inhoud: 60.07.26-432.97;DE WIT;STERRE;1-12431-65-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.07.26-432.97
+ - Ongeldige RIZIV: 1-12431-65-960
+
+Lijn: 173
+Inhoud: 99.02.17-608.05;DE WITTE;JAN;1-46350-23-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.02.17-608.05
+ - Ongeldige RIZIV: 1-46350-23-100
+
+Lijn: 174
+Inhoud: 45.03.21-950.65;DE WOLF;JULIE;1-48775-23-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.03.21-950.65
+ - Ongeldige RIZIV: 1-48775-23-000
+
+Lijn: 175
+Inhoud: 89.03.24-940.36;DE WOLF;KATHLEEN;1-45296-10-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.03.24-940.36
+ - Ongeldige RIZIV: 1-45296-10-100
+
+Lijn: 176
+Inhoud: 82.03.18-247.83;DE WOLF VERMEULEN;SIM;1-79265-88-970;{NUCL};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.03.18-247.83
+ - Ongeldige RIZIV: 1-79265-88-970
+
+Lijn: 177
+Inhoud: 03.08.02-161.68;DEBACKERE;ANNEKE;1-08196-56-370;{OPHT};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.08.02-161.68
+ - Ongeldige RIZIV: 1-08196-56-370
+
+Lijn: 178
+Inhoud: 82.05.14-769.83;DEBELS;MARC;1-06212-03-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.05.14-769.83
+ - Ongeldige RIZIV: 1-06212-03-730
+
+Lijn: 179
+Inhoud: 83.07.15-399.70;DEBEUCKELAERE;CELINE;1-98980-64-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 83.07.15-399.70
+ - Ongeldige RIZIV: 1-98980-64-588
+
+Lijn: 180
+Inhoud: 93.03.17-528.63;DEBEUCKELAERE;STEVEN;1-46220-56-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.03.17-528.63
+ - Ongeldige RIZIV: 1-46220-56-588
+
+Lijn: 181
+Inhoud: 61.01.30-615.64;DEBLAERE;CHRISTINE;1-44699-25-370;{OPHT};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.01.30-615.64
+ - Ongeldige RIZIV: 1-44699-25-370
+
+Lijn: 182
+Inhoud: 56.07.29-504.45;DEBRAUWERE;JAN;1-09841-60-730;{CARD};{GERC}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.07.29-504.45
+ - Ongeldige RIZIV: 1-09841-60-730
+
+Lijn: 183
+Inhoud: 42.02.22-120.19;DEBYSER;HANNELORE;1-48665-36-830;{REVA};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.02.22-120.19
+ - Ongeldige RIZIV: 1-48665-36-830
+
+Lijn: 184
+Inhoud: 60.11.23-605.42;DEDEYNE;MARGO;1-13444-31-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.11.23-605.42
+ - Ongeldige RIZIV: 1-13444-31-000
+
+Lijn: 185
+Inhoud: 89.03.28-733.26;DEFRANCQ;DIRK;1-46240-36-830;{REVA};{GASTG}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.03.28-733.26
+ - Ongeldige RIZIV: 1-46240-36-830
+
+Lijn: 186
+Inhoud: 78.03.10-474.12;DEGRIECK;IVAN;1-44968-47-140;{CHIR};{GASTG}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.03.10-474.12
+ - Ongeldige RIZIV: 1-44968-47-140
+
+Lijn: 187
+Inhoud: 53.04.09-568.12;DELAHAYE;TANIA;1-35800-97-340;{GYNA};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.04.09-568.12
+ - Ongeldige RIZIV: 1-35800-97-340
+
+Lijn: 188
+Inhoud: 92.02.01-335.29;DELATTRE;SIEN;1-99248-87-340;{GYNA};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.02.01-335.29
+ - Ongeldige RIZIV: 1-99248-87-340
+
+Lijn: 189
+Inhoud: 71.05.29-262.06;DEMAEGD;LIESBETH;1-79203-53-370;{OPHT};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.05.29-262.06
+ - Ongeldige RIZIV: 1-79203-53-370
+
+Lijn: 190
+Inhoud: 34.11.26-026.82;DEMEULENAERE;MARIEKE;1-99374-58-590;{NEFR};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.11.26-026.82
+ - Ongeldige RIZIV: 1-99374-58-590
+
+Lijn: 191
+Inhoud: 44.11.13-105.21;DENECKERE;GERARD;1-42245-54-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.11.13-105.21
+ - Ongeldige RIZIV: 1-42245-54-180
+
+Lijn: 192
+Inhoud: 35.06.04-335.31;DENUTTE;ISABEL;1-98522-37-830;{REVA};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.06.04-335.31
+ - Ongeldige RIZIV: 1-98522-37-830
+
+Lijn: 193
+Inhoud: 82.03.01-490.59;DENYS;BART;1-36526-50-590;{NEFR};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.03.01-490.59
+ - Ongeldige RIZIV: 1-36526-50-590
+
+Lijn: 194
+Inhoud: 78.12.14-941.70;DENYS;KATRIEN;1-36820-47-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.12.14-941.70
+ - Ongeldige RIZIV: 1-36820-47-180
+
+Lijn: 195
+Inhoud: 30.03.15-218.80;DEPOORTER;SERAFIEN;1-04427-59-690;{PEDI};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.03.15-218.80
+ - Ongeldige RIZIV: 1-04427-59-690
+
+Lijn: 196
+Inhoud: 63.04.29-730.42;DEPOOT;ISABELLE;1-35668-35-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 63.04.29-730.42
+ - Ongeldige RIZIV: 1-35668-35-180
+
+Lijn: 197
+Inhoud: 02.06.06-271.71;DEPREZ;ALEXANDER;1-08548-32-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.06.06-271.71
+ - Ongeldige RIZIV: 1-08548-32-480
+
+Lijn: 198
+Inhoud: 66.03.18-312.70;DEPREZ;CHARLOTTE;1-13344-42-410;{ORL};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.03.18-312.70
+ - Ongeldige RIZIV: 1-13344-42-410
+
+Lijn: 199
+Inhoud: 66.07.31-161.53;DERVEAUX;THIERRY;1-48360-50-370;{OPHT};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.07.31-161.53
+ - Ongeldige RIZIV: 1-48360-50-370
+
+Lijn: 200
+Inhoud: 69.11.04-168.74;DESMET;JAN;1-35858-39-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.11.04-168.74
+ - Ongeldige RIZIV: 1-35858-39-000
+
+Lijn: 201
+Inhoud: 42.04.09-690.47;DESPIERRE;EVELYN;1-76533-07-340;{GYNA};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.04.09-690.47
+ - Ongeldige RIZIV: 1-76533-07-340
+
+Lijn: 202
+Inhoud: 84.10.06-713.68;DESRUMAUX;MARIE-JUSTINE;1-03632-53-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.10.06-713.68
+ - Ongeldige RIZIV: 1-03632-53-480
+
+Lijn: 203
+Inhoud: 85.04.25-746.26;DETREMERIE;CELINE;1-82010-59-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.04.25-746.26
+ - Ongeldige RIZIV: 1-82010-59-180
+
+Lijn: 204
+Inhoud: 73.03.09-489.19;DEVOLDER;ISABELLE;1-76168-81-590;{NEFR};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.03.09-489.19
+ - Ongeldige RIZIV: 1-76168-81-590
+
+Lijn: 205
+Inhoud: 69.12.25-972.05;DEVROEY;PAUL;1-04961-90-340;{GYNA};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.12.25-972.05
+ - Ongeldige RIZIV: 1-04961-90-340
+
+Lijn: 206
+Inhoud: 50.03.12-929.73;DEVUE;KATLEEN;1-36106-82-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 50.03.12-929.73
+ - Ongeldige RIZIV: 1-36106-82-660
+
+Lijn: 207
+Inhoud: 00.07.12-429.71;DEVUYST;STIJN;1-48750-48-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.07.12-429.71
+ - Ongeldige RIZIV: 1-48750-48-000
+
+Lijn: 208
+Inhoud: 02.08.04-799.71;DEWAELE;TOM;1-47668-63-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.08.04-799.71
+ - Ongeldige RIZIV: 1-47668-63-480
+
+Lijn: 209
+Inhoud: 76.09.24-031.35;DEWAELHEYNS;GERDA;1-43236-33-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 76.09.24-031.35
+ - Ongeldige RIZIV: 1-43236-33-000
+
+Lijn: 210
+Inhoud: 48.11.25-744.76;DHAENE;HANNAH;1-82255-08-780;{PSYC};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.11.25-744.76
+ - Ongeldige RIZIV: 1-82255-08-780
+
+Lijn: 211
+Inhoud: 89.11.22-984.11;DHAENE;KARL;1-08845-86-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.11.22-984.11
+ - Ongeldige RIZIV: 1-08845-86-000
+
+Lijn: 212
+Inhoud: 88.04.03-119.18;DHOLLANDER;HENRI;1-43213-56-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 88.04.03-119.18
+ - Ongeldige RIZIV: 1-43213-56-588
+
+Lijn: 213
+Inhoud: 42.12.24-025.27;DHOORE;PHILIP;1-34775-55-860;{BIOL};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.12.24-025.27
+ - Ongeldige RIZIV: 1-34775-55-860
+
+Lijn: 214
+Inhoud: 39.01.05-303.82;DI DIER;KELLY;1-02766-29-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.01.05-303.82
+ - Ongeldige RIZIV: 1-02766-29-588
+
+Lijn: 215
+Inhoud: 90.10.24-650.08;DIELS;STIJN;1-06672-39-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.10.24-650.08
+ - Ongeldige RIZIV: 1-06672-39-588
+
+Lijn: 216
+Inhoud: 30.07.31-596.26;DIEPENDAEL;HELENA;1-13240-57-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.07.31-596.26
+ - Ongeldige RIZIV: 1-13240-57-000
+
+Lijn: 217
+Inhoud: 72.11.30-823.60;DIERCKX;RIET;1-19568-33-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.11.30-823.60
+ - Ongeldige RIZIV: 1-19568-33-660
+
+Lijn: 218
+Inhoud: 03.06.16-526.68;DOBBELEIR;JULIE;1-36629-44-210;{PLCH};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.06.16-526.68
+ - Ongeldige RIZIV: 1-36629-44-210
+
+Lijn: 219
+Inhoud: 86.09.12-320.25;DOBBELS;PIETER;1-36407-72-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.09.12-320.25
+ - Ongeldige RIZIV: 1-36407-72-588
+
+Lijn: 220
+Inhoud: 03.05.28-410.71;DORNY;NICOLE;1-45993-89-970;{NUCL};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.05.28-410.71
+ - Ongeldige RIZIV: 1-45993-89-970
+
+Lijn: 221
+Inhoud: 79.05.25-548.08;DOS SANTOS ALMEIDA FARINHA;RUI;1-82291-69-450;{UROL};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.05.25-548.08
+ - Ongeldige RIZIV: 1-82291-69-450
+
+Lijn: 222
+Inhoud: 66.04.17-733.74;DU BOIS;MARC;1-46271-05-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.04.17-733.74
+ - Ongeldige RIZIV: 1-46271-05-660
+
+Lijn: 223
+Inhoud: 47.02.28-013.51;DU VILLE;GODELIEVE;1-05996-25-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.02.28-013.51
+ - Ongeldige RIZIV: 1-05996-25-588
+
+Lijn: 224
+Inhoud: 82.05.16-525.73;DUREZ;ASTRID;1-39734-43-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.05.16-525.73
+ - Ongeldige RIZIV: 1-39734-43-770
+
+Lijn: 225
+Inhoud: 35.09.27-892.66;EKINCI;HAFIZE;1-99270-65-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.09.27-892.66
+ - Ongeldige RIZIV: 1-99270-65-770
+
+Lijn: 226
+Inhoud: 49.11.27-688.93;EL BALI;JAMILA;1-89019-34-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.11.27-688.93
+ - Ongeldige RIZIV: 1-89019-34-000
+
+Lijn: 227
+Inhoud: 91.03.03-203.87;EL HADDAOUI AMOUTARH;MOHAMED;1-12801-51-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.03.03-203.87
+ - Ongeldige RIZIV: 1-12801-51-588
+
+Lijn: 228
+Inhoud: 05.01.24-719.71;ENGELS;BENEDIKT;1-47692-39-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 05.01.24-719.71
+ - Ongeldige RIZIV: 1-47692-39-960
+
+Lijn: 229
+Inhoud: 80.09.14-024.38;EVENEPOEL;MARIE-CLAIRE;1-41483-40-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.09.14-024.38
+ - Ongeldige RIZIV: 1-41483-40-100
+
+Lijn: 230
+Inhoud: 47.01.15-539.05;EVENEPOEL;TOM;1-46843-15-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.01.15-539.05
+ - Ongeldige RIZIV: 1-46843-15-180
+
+Lijn: 231
+Inhoud: 53.11.03-250.74;EYKENS;TOM;1-18699-29-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.11.03-250.74
+ - Ongeldige RIZIV: 1-18699-29-100
+
+Lijn: 232
+Inhoud: 38.12.17-278.94;FABRI;RIA;1-34957-67-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.12.17-278.94
+ - Ongeldige RIZIV: 1-34957-67-180
+
+Lijn: 233
+Inhoud: 46.01.02-299.32;FAICT;SEBASTIAN;1-99280-55-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.01.02-299.32
+ - Ongeldige RIZIV: 1-99280-55-480
+
+Lijn: 234
+Inhoud: 79.08.11-428.84;FERMON;FRANCISCUS;1-14546-11-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.08.11-428.84
+ - Ongeldige RIZIV: 1-14546-11-480
+
+Lijn: 235
+Inhoud: 72.05.03-036.63;FLORIAL;JULIE;1-07096-60-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.05.03-036.63
+ - Ongeldige RIZIV: 1-07096-60-730
+
+Lijn: 236
+Inhoud: 95.03.14-393.39;FONTAINE;MICHEL;1-47012-40-100;{ANES};{ONCO}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.03.14-393.39
+ - Ongeldige RIZIV: 1-47012-40-100
+
+Lijn: 237
+Inhoud: 82.11.02-556.19;FONTAINE;NATHALIE;1-08803-31-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.11.02-556.19
+ - Ongeldige RIZIV: 1-08803-31-100
+
+Lijn: 238
+Inhoud: 38.05.30-902.01;FONTEYNE;ETIENNE;1-42236-63-450;{UROL};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.05.30-902.01
+ - Ongeldige RIZIV: 1-42236-63-450
+
+Lijn: 239
+Inhoud: 71.09.16-522.67;FOSSELLE;ERWIN;1-42886-92-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.09.16-522.67
+ - Ongeldige RIZIV: 1-42886-92-770
+
+Lijn: 240
+Inhoud: 66.04.10-029.18;FOSSELLE;JAN;1-44363-70-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.04.10-029.18
+ - Ongeldige RIZIV: 1-44363-70-960
+
+Lijn: 241
+Inhoud: 60.01.22-947.48;FOSTIER;KAREL;1-00099-05-598;{HEMA};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.01.22-947.48
+ - Ongeldige RIZIV: 1-00099-05-598
+
+Lijn: 242
+Inhoud: 45.07.24-112.65;FOUBERT;LUC;1-44938-77-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.07.24-112.65
+ - Ongeldige RIZIV: 1-44938-77-100
+
+Lijn: 243
+Inhoud: 44.05.15-000.24;FRANCKX;HELEN;1-98960-84-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.05.15-000.24
+ - Ongeldige RIZIV: 1-98960-84-000
+
+Lijn: 244
+Inhoud: 54.05.01-057.15;FRANSEN;JASPER;1-48754-44-520;{STOM};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.05.01-057.15
+ - Ongeldige RIZIV: 1-48754-44-520
+
+Lijn: 245
+Inhoud: 58.05.20-582.71;GADEYNE;SOFIE;1-48318-92-690;{PEDI};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.05.20-582.71
+ - Ongeldige RIZIV: 1-48318-92-690
+
+Lijn: 246
+Inhoud: 92.01.25-901.94;GEELEN;PETRUS;1-45999-83-730;{CARD};{GERC}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.01.25-901.94
+ - Ongeldige RIZIV: 1-45999-83-730
+
+Lijn: 247
+Inhoud: 71.07.12-552.46;GEEROMS;MAXIM;1-99339-93-210;{PLCH};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.07.12-552.46
+ - Ongeldige RIZIV: 1-99339-93-210
+
+Lijn: 248
+Inhoud: 40.06.02-746.76;GEERTS;LODEWIJK;1-13256-40-370;{OPHT};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.06.02-746.76
+ - Ongeldige RIZIV: 1-13256-40-370
+
+Lijn: 249
+Inhoud: 47.01.12-416.24;GEEURICKX;STIJN;1-98791-59-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.01.12-416.24
+ - Ongeldige RIZIV: 1-98791-59-480
+
+Lijn: 250
+Inhoud: 66.06.02-028.79;GENIETS;CATHERINE;1-47280-63-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.06.02-028.79
+ - Ongeldige RIZIV: 1-47280-63-180
+
+Lijn: 251
+Inhoud: 46.07.07-280.40;GERAEDTS;JOOST;1-17366-04-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.07.07-280.40
+ - Ongeldige RIZIV: 1-17366-04-730
+
+Lijn: 252
+Inhoud: 47.12.29-818.62;GEUKENS;SVEN;1-18731-94-410;{ORL};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.12.29-818.62
+ - Ongeldige RIZIV: 1-18731-94-410
+
+Lijn: 253
+Inhoud: 87.07.17-231.68;GHIJSELS;ERIK;1-09536-74-590;{NEFR};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.07.17-231.68
+ - Ongeldige RIZIV: 1-09536-74-590
+
+Lijn: 254
+Inhoud: 67.04.29-452.16;GKINI;KONSTANTIA;1-13151-57-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.04.29-452.16
+ - Ongeldige RIZIV: 1-13151-57-730
+
+Lijn: 255
+Inhoud: 99.10.09-210.20;GKOUTIS;GEORGIOS;1-04569-06-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.10.09-210.20
+ - Ongeldige RIZIV: 1-04569-06-180
+
+Lijn: 256
+Inhoud: 48.04.12-196.92;GOETHALS;MARC;1-45449-51-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.04.12-196.92
+ - Ongeldige RIZIV: 1-45449-51-730
+
+Lijn: 257
+Inhoud: 78.10.22-235.37;GOOSSENS;MARIJN;1-99099-42-450;{UROL};{GERC}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.10.22-235.37
+ - Ongeldige RIZIV: 1-99099-42-450
+
+Lijn: 258
+Inhoud: 79.06.14-434.71;GOOSSENS;TINE;1-73676-51-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.06.14-434.71
+ - Ongeldige RIZIV: 1-73676-51-100
+
+Lijn: 259
+Inhoud: 93.03.27-820.53;GOUBAU;YANNICK;1-36940-24-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.03.27-820.53
+ - Ongeldige RIZIV: 1-36940-24-480
+
+Lijn: 260
+Inhoud: 85.07.13-241.39;GOUWY;STEFAAN;1-08870-61-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.07.13-241.39
+ - Ongeldige RIZIV: 1-08870-61-100
+
+Lijn: 261
+Inhoud: 69.07.14-634.56;GOVAERE;ELKE;1-46818-40-690;{PEDI};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.07.14-634.56
+ - Ongeldige RIZIV: 1-46818-40-690
+
+Lijn: 262
+Inhoud: 55.09.16-374.73;GOYENS;MAARTEN;1-06647-64-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.09.16-374.73
+ - Ongeldige RIZIV: 1-06647-64-000
+
+Lijn: 263
+Inhoud: 40.03.04-846.89;GRYSOLLE;ANNE;1-76610-27-520;{STOM};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.03.04-846.89
+ - Ongeldige RIZIV: 1-76610-27-520
+
+Lijn: 264
+Inhoud: 72.04.01-610.27;GYSELBRECHT;GODELIEVE;1-46233-43-790;{REUM};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.04.01-610.27
+ - Ongeldige RIZIV: 1-46233-43-790
+
+Lijn: 265
+Inhoud: 53.04.16-600.61;HACIOGLU;SABRIYE;1-73632-95-730;{CARD};{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.04.16-600.61
+ - Ongeldige RIZIV: 1-73632-95-730
+
+Lijn: 266
+Inhoud: 39.02.17-971.31;HAGERS;YVES;1-18254-86-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.02.17-971.31
+ - Ongeldige RIZIV: 1-18254-86-000
+
+Lijn: 267
+Inhoud: 77.02.10-651.01;HALEWYCK;STIJN;1-09840-61-410;{ORL};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 77.02.10-651.01
+ - Ongeldige RIZIV: 1-09840-61-410
+
+Lijn: 268
+Inhoud: 36.03.23-341.37;HARDEMAN;ELKE;1-19835-57-620;{PNEU};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.03.23-341.37
+ - Ongeldige RIZIV: 1-19835-57-620
+
+Lijn: 269
+Inhoud: 90.12.24-053.37;HARNIE;ANNELIES;1-36455-24-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.12.24-053.37
+ - Ongeldige RIZIV: 1-36455-24-660
+
+Lijn: 270
+Inhoud: 36.09.05-019.68;HEGGERMONT;WARD;1-98301-64-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.09.05-019.68
+ - Ongeldige RIZIV: 1-98301-64-730
+
+Lijn: 271
+Inhoud: 57.10.10-647.29;HENDRICKX;ANNE-MARIA;1-44552-75-340;{GYNA};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.10.10-647.29
+ - Ongeldige RIZIV: 1-44552-75-340
+
+Lijn: 272
+Inhoud: 00.10.07-601.71;HENDRICKX;KOENRAAD;1-17764-91-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.10.07-601.71
+ - Ongeldige RIZIV: 1-17764-91-588
+
+Lijn: 273
+Inhoud: 32.07.24-065.33;HENDRICKX;THOMAS;1-79423-27-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 32.07.24-065.33
+ - Ongeldige RIZIV: 1-79423-27-588
+
+Lijn: 274
+Inhoud: 68.07.20-307.85;HERMIE;ISABEAU;1-37348-04-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.07.20-307.85
+ - Ongeldige RIZIV: 1-37348-04-660
+
+Lijn: 275
+Inhoud: 54.09.14-507.76;HERREMANS;HELENNA;1-12087-53-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.09.14-507.76
+ - Ongeldige RIZIV: 1-12087-53-000
+
+Lijn: 276
+Inhoud: 97.06.14-287.14;HERREMANS;SARAH;1-00051-53-780;{PSYC};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.06.14-287.14
+ - Ongeldige RIZIV: 1-00051-53-780
+
+Lijn: 277
+Inhoud: 73.04.27-673.78;HERRTWICH;ANNIKA;1-03301-28-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.04.27-673.78
+ - Ongeldige RIZIV: 1-03301-28-960
+
+Lijn: 278
+Inhoud: 78.11.04-186.51;HEYVAERT;DIRK;1-44982-33-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.11.04-186.51
+ - Ongeldige RIZIV: 1-44982-33-180
+
+Lijn: 279
+Inhoud: 70.12.11-247.07;HILDERSON;INGEBORG;1-98675-78-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.12.11-247.07
+ - Ongeldige RIZIV: 1-98675-78-000
+
+Lijn: 280
+Inhoud: 00.01.03-632.71;HILLEWAERE;LUC;1-43021-54-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.01.03-632.71
+ - Ongeldige RIZIV: 1-43021-54-588
+
+Lijn: 281
+Inhoud: 01.11.28-800.71;HIMSCHOOT;WOUTER;1-00950-65-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.11.28-800.71
+ - Ongeldige RIZIV: 1-00950-65-000
+
+Lijn: 282
+Inhoud: 77.02.01-640.88;HOFMANS;CAROLINE;1-75612-55-340;{GYNA};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 77.02.01-640.88
+ - Ongeldige RIZIV: 1-75612-55-340
+
+Lijn: 283
+Inhoud: 75.02.08-807.57;HOLLEVOET;ISABELLE;1-47829-96-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.02.08-807.57
+ - Ongeldige RIZIV: 1-47829-96-100
+
+Lijn: 284
+Inhoud: 61.08.15-321.81;HOLVOET;RIKKERT;1-75967-88-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.08.15-321.81
+ - Ongeldige RIZIV: 1-75967-88-000
+
+Lijn: 285
+Inhoud: 59.09.01-898.83;HOTTAT;ALEXANDRE;1-39766-11-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.09.01-898.83
+ - Ongeldige RIZIV: 1-39766-11-100
+
+Lijn: 286
+Inhoud: 77.08.25-907.16;HOUTMAN;ANKE;1-48079-40-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 77.08.25-907.16
+ - Ongeldige RIZIV: 1-48079-40-660
+
+Lijn: 287
+Inhoud: 72.05.30-095.67;HUYBRECHT;EMILE;1-03152-88-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.05.30-095.67
+ - Ongeldige RIZIV: 1-03152-88-000
+
+Lijn: 288
+Inhoud: 82.08.01-792.83;HUYCK;THIJS;1-10818-76-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.08.01-792.83
+ - Ongeldige RIZIV: 1-10818-76-588
+
+Lijn: 289
+Inhoud: 35.04.05-009.22;HUYGH;GREET;1-47027-25-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.04.05-009.22
+ - Ongeldige RIZIV: 1-47027-25-480
+
+Lijn: 290
+Inhoud: 31.10.10-635.77;HUYLENBROECK;GILBERT;1-43677-77-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 31.10.10-635.77
+ - Ongeldige RIZIV: 1-43677-77-100
+
+Lijn: 291
+Inhoud: 73.10.22-551.04;HUYSKENS;PIETER-JOZEF;1-49070-19-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.10.22-551.04
+ - Ongeldige RIZIV: 1-49070-19-588
+
+Lijn: 292
+Inhoud: 00.11.24-213.71;IMMEGEERS;VEERLE;1-07158-27-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.11.24-213.71
+ - Ongeldige RIZIV: 1-07158-27-180
+
+Lijn: 293
+Inhoud: 41.09.02-884.77;ISTAS;EGON;1-12829-23-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 41.09.02-884.77
+ - Ongeldige RIZIV: 1-12829-23-000
+
+Lijn: 294
+Inhoud: 48.02.13-507.28;JACOB;MARC;1-43841-10-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.02.13-507.28
+ - Ongeldige RIZIV: 1-43841-10-000
+
+Lijn: 295
+Inhoud: 86.02.18-930.59;JACOBS;STEFAN;1-47024-28-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.02.18-930.59
+ - Ongeldige RIZIV: 1-47024-28-100
+
+Lijn: 296
+Inhoud: 90.04.15-589.06;JAGER;TJEERD;1-35714-86-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.04.15-589.06
+ - Ongeldige RIZIV: 1-35714-86-960
+
+Lijn: 297
+Inhoud: 46.11.10-738.05;JAMAER;EMILY;1-99771-49-340;{GYNA};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.11.10-738.05
+ - Ongeldige RIZIV: 1-99771-49-340
+
+Lijn: 298
+Inhoud: 98.02.14-361.30;JEURIS;WINO;1-18480-54-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.02.14-361.30
+ - Ongeldige RIZIV: 1-18480-54-000
+
+Lijn: 299
+Inhoud: 02.02.23-012.71;JONCKHEERE;SOPHIE;1-79213-43-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.02.23-012.71
+ - Ongeldige RIZIV: 1-79213-43-180
+
+Lijn: 300
+Inhoud: 74.01.17-015.66;JORISSEN;THIBAUD;1-08235-78-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.01.17-015.66
+ - Ongeldige RIZIV: 1-08235-78-770
+
+Lijn: 301
+Inhoud: 38.06.15-394.93;JORISSEN;WILLEM;1-45616-78-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.06.15-394.93
+ - Ongeldige RIZIV: 1-45616-78-480
+
+Lijn: 302
+Inhoud: 89.08.09-455.36;KENNES;JELLE;1-99833-84-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.08.09-455.36
+ - Ongeldige RIZIV: 1-99833-84-100
+
+Lijn: 303
+Inhoud: 81.06.24-294.50;KERSSCHOT;ERIK;1-45029-83-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.06.24-294.50
+ - Ongeldige RIZIV: 1-45029-83-960
+
+Lijn: 304
+Inhoud: 55.10.13-664.74;KEYMEULEN;FLORIAN;1-12095-45-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.10.13-664.74
+ - Ongeldige RIZIV: 1-12095-45-588
+
+Lijn: 305
+Inhoud: 89.06.29-217.48;KEYMEULEN;KASPER;1-08556-24-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.06.29-217.48
+ - Ongeldige RIZIV: 1-08556-24-960
+
+Lijn: 306
+Inhoud: 02.10.22-113.71;KNEUTS;RAFAEL;1-00578-81-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.10.22-113.71
+ - Ongeldige RIZIV: 1-00578-81-000
+
+Lijn: 307
+Inhoud: 48.06.10-981.60;KNOCKAERT;BART;1-76810-21-520;{STOM};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.06.10-981.60
+ - Ongeldige RIZIV: 1-76810-21-520
+
+Lijn: 308
+Inhoud: 81.02.13-812.28;KOCKELBERGH;INE;1-38727-80-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.02.13-812.28
+ - Ongeldige RIZIV: 1-38727-80-480
+
+Lijn: 309
+Inhoud: 50.12.08-446.60;KOOLS;DJAYA;1-19418-86-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 50.12.08-446.60
+ - Ongeldige RIZIV: 1-19418-86-960
+
+Lijn: 310
+Inhoud: 86.08.24-410.53;KRICK;ERWIN;1-43075-97-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.08.24-410.53
+ - Ongeldige RIZIV: 1-43075-97-660
+
+Lijn: 311
+Inhoud: 48.02.15-837.26;KRICK;MARC;1-56436-25-140;{CHIR};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.02.15-837.26
+ - Ongeldige RIZIV: 1-56436-25-140
+
+Lijn: 312
+Inhoud: 68.09.05-061.19;LA MEIR;MARK;1-08316-33-140;{CHIR};{GERC}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.09.05-061.19
+ - Ongeldige RIZIV: 1-08316-33-140
+
+Lijn: 313
+Inhoud: 67.11.20-479.17;LAMBERT;EDWARD;1-82191-72-450;{UROL};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.11.20-479.17
+ - Ongeldige RIZIV: 1-82191-72-450
+
+Lijn: 314
+Inhoud: 45.07.16-870.32;LAMBERT;INE;1-79177-79-370;{OPHT};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.07.16-870.32
+ - Ongeldige RIZIV: 1-79177-79-370
+
+Lijn: 315
+Inhoud: 61.02.19-291.46;LAMMENS;FREDERIK;1-74010-08-410;{ORL};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.02.19-291.46
+ - Ongeldige RIZIV: 1-74010-08-410
+
+Lijn: 316
+Inhoud: 34.07.26-865.88;LANCKMANS;LIESE;1-02808-12-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.07.26-865.88
+ - Ongeldige RIZIV: 1-02808-12-180
+
+Lijn: 317
+Inhoud: 74.07.29-909.18;LANDELOOS;EWOUT;1-99817-03-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.07.29-909.18
+ - Ongeldige RIZIV: 1-99817-03-480
+
+Lijn: 318
+Inhoud: 39.04.13-874.68;LANGMANS;CISKA;1-99323-12-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.04.13-874.68
+ - Ongeldige RIZIV: 1-99323-12-000
+
+Lijn: 319
+Inhoud: 72.04.24-402.30;LAPAGE;KOEN;1-48090-29-100;{ANES};{ONCO}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.04.24-402.30
+ - Ongeldige RIZIV: 1-48090-29-100
+
+Lijn: 320
+Inhoud: 73.08.03-012.32;LAUWERS;RINALDO;1-76653-81-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.08.03-012.32
+ - Ongeldige RIZIV: 1-76653-81-660
+
+Lijn: 321
+Inhoud: 70.06.07-851.63;LE MOINE;CAMILLE;1-39083-15-790;{REUM};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.06.07-851.63
+ - Ongeldige RIZIV: 1-39083-15-790
+
+Lijn: 322
+Inhoud: 64.08.04-422.82;LECOMTE;PATRICK;1-18854-68-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.08.04-422.82
+ - Ongeldige RIZIV: 1-18854-68-100
+
+Lijn: 323
+Inhoud: 72.02.29-022.52;LEENDERS;GEERTRUI;1-48327-83-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.02.29-022.52
+ - Ongeldige RIZIV: 1-48327-83-100
+
+Lijn: 324
+Inhoud: 79.10.19-996.66;LEGRAND;MATHIAS;1-37175-80-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.10.19-996.66
+ - Ongeldige RIZIV: 1-37175-80-100
+
+Lijn: 325
+Inhoud: 92.04.12-974.44;LESAGE;GEOFFREY;1-19550-51-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.04.12-974.44
+ - Ongeldige RIZIV: 1-19550-51-660
+
+Lijn: 326
+Inhoud: 92.05.12-581.56;LEYDER;MINA;1-19709-86-340;{GYNA};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.05.12-581.56
+ - Ongeldige RIZIV: 1-19709-86-340
+
+Lijn: 327
+Inhoud: 57.03.17-630.78;LEYMAN;BERNARD;1-01364-07-520;{STOM};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.03.17-630.78
+ - Ongeldige RIZIV: 1-01364-07-520
+
+Lijn: 328
+Inhoud: 36.07.24-999.56;LEYMAN;PETER;1-45565-32-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.07.24-999.56
+ - Ongeldige RIZIV: 1-45565-32-660
+
+Lijn: 329
+Inhoud: 80.09.30-474.78;LIEVENS;CHARLOTTE;1-75636-31-790;{REUM};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.09.30-474.78
+ - Ongeldige RIZIV: 1-75636-31-790
+
+Lijn: 330
+Inhoud: 51.07.11-537.59;LIEVENS;HILDE;1-45282-24-370;{OPHT};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.07.11-537.59
+ - Ongeldige RIZIV: 1-45282-24-370
+
+Lijn: 331
+Inhoud: 97.11.12-281.18;LUST;WOUTER;1-16226-77-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.11.12-281.18
+ - Ongeldige RIZIV: 1-16226-77-770
+
+Lijn: 332
+Inhoud: 01.01.26-410.71;MAES;CATHERINE;1-35660-43-860;{BIOL};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.01.26-410.71
+ - Ongeldige RIZIV: 1-35660-43-860
+
+Lijn: 333
+Inhoud: 54.03.13-106.77;MAES;TINA;1-99180-58-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.03.13-106.77
+ - Ongeldige RIZIV: 1-99180-58-000
+
+Lijn: 334
+Inhoud: 50.11.07-742.78;MAGNE FOTSING;ORLANDE;1-09277-15-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 50.11.07-742.78
+ - Ongeldige RIZIV: 1-09277-15-960
+
+Lijn: 335
+Inhoud: 64.04.08-934.04;MARCELIS;WILLIAM;1-75017-68-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.04.08-934.04
+ - Ongeldige RIZIV: 1-75017-68-588
+
+Lijn: 336
+Inhoud: 87.04.11-148.19;MARIEN;LISSA;1-10802-03-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.04.11-148.19
+ - Ongeldige RIZIV: 1-10802-03-000
+
+Lijn: 337
+Inhoud: 30.05.18-286.33;MARTENS;FREDERIC;1-45113-96-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.05.18-286.33
+ - Ongeldige RIZIV: 1-45113-96-180
+
+Lijn: 338
+Inhoud: 72.09.27-630.38;MASSAAD;DANY;1-19221-89-583;{ENDO};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.09.27-630.38
+ - Ongeldige RIZIV: 1-19221-89-583
+
+Lijn: 339
+Inhoud: 02.11.03-640.71;MATTHYS;AN;1-47271-72-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.11.03-640.71
+ - Ongeldige RIZIV: 1-47271-72-480
+
+Lijn: 340
+Inhoud: 92.12.15-063.48;MBUGAPINDU;GIAMVU;1-68973-01-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.12.15-063.48
+ - Ongeldige RIZIV: 1-68973-01-000
+
+Lijn: 341
+Inhoud: 95.06.27-501.47;MEERT;VANESSA;1-76400-43-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.06.27-501.47
+ - Ongeldige RIZIV: 1-76400-43-000
+
+Lijn: 342
+Inhoud: 73.10.10-038.04;MEEUS;PETER;1-46162-17-860;{BIOL};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.10.10-038.04
+ - Ongeldige RIZIV: 1-46162-17-860
+
+Lijn: 343
+Inhoud: 61.05.28-848.16;MIDDERNACHT;BART;1-47795-33-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.05.28-848.16
+ - Ongeldige RIZIV: 1-47795-33-480
+
+Lijn: 344
+Inhoud: 54.09.15-995.43;MISTIAEN;WOUTER;1-48984-08-830;{REVA};{NEUR}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.09.15-995.43
+ - Ongeldige RIZIV: 1-48984-08-830
+
+Lijn: 345
+Inhoud: 64.05.23-846.37;MOERMAN;LESLIE;1-76985-40-140;{CHIR};{GASTG}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.05.23-846.37
+ - Ongeldige RIZIV: 1-76985-40-140
+
+Lijn: 346
+Inhoud: 89.11.14-425.34;MONSAERT;ANTHONY;1-09891-10-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.11.14-425.34
+ - Ongeldige RIZIV: 1-09891-10-480
+
+Lijn: 347
+Inhoud: 96.06.13-630.68;MONSIEUR;GIELKE;1-47485-52-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.06.13-630.68
+ - Ongeldige RIZIV: 1-47485-52-180
+
+Lijn: 348
+Inhoud: 46.11.13-347.15;MORIAS;KARL;1-17976-73-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.11.13-347.15
+ - Ongeldige RIZIV: 1-17976-73-100
+
+Lijn: 349
+Inhoud: 03.07.09-496.71;MOSIA NGAPULU;JERRY;1-09008-17-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.07.09-496.71
+ - Ongeldige RIZIV: 1-09008-17-000
+
+Lijn: 350
+Inhoud: 80.10.02-491.35;MOTTRIE;ALEXANDRE;1-34176-72-450;{UROL};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.10.02-491.35
+ - Ongeldige RIZIV: 1-34176-72-450
+
+Lijn: 351
+Inhoud: 91.10.14-716.69;MULLIEZ;ALEXANDER;1-36830-37-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.10.14-716.69
+ - Ongeldige RIZIV: 1-36830-37-480
+
+Lijn: 352
+Inhoud: 85.08.08-318.22;MUNGHEN;EVERT;1-46396-74-620;{PNEU};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.08.08-318.22
+ - Ongeldige RIZIV: 1-46396-74-620
+
+Lijn: 353
+Inhoud: 38.07.26-330.28;MUYLAERT;CAROLINE;1-98976-68-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.07.26-330.28
+ - Ongeldige RIZIV: 1-98976-68-000
+
+Lijn: 354
+Inhoud: 89.09.14-355.90;MUYLLE;INGE;1-76732-02-620;{PNEU};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.09.14-355.90
+ - Ongeldige RIZIV: 1-76732-02-620
+
+Lijn: 355
+Inhoud: 44.04.22-175.20;MYNCKE;IRISA;1-38468-48-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.04.22-175.20
+ - Ongeldige RIZIV: 1-38468-48-480
+
+Lijn: 356
+Inhoud: 93.11.30-512.36;NANDA;DHARMINDERKOEMAR;1-09261-31-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.11.30-512.36
+ - Ongeldige RIZIV: 1-09261-31-588
+
+Lijn: 357
+Inhoud: 32.08.11-611.78;NEYENS;EVY;1-98985-59-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 32.08.11-611.78
+ - Ongeldige RIZIV: 1-98985-59-100
+
+Lijn: 358
+Inhoud: 82.07.25-969.52;NGUYEN;PHAM;1-99226-12-620;{PNEU};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.07.25-969.52
+ - Ongeldige RIZIV: 1-99226-12-620
+
+Lijn: 359
+Inhoud: 43.05.24-664.39;NJUGUNA;SIMON;1-82345-15-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 43.05.24-664.39
+ - Ongeldige RIZIV: 1-82345-15-100
+
+Lijn: 360
+Inhoud: 59.05.10-976.95;NOBELS;FRANKIE;1-46199-77-583;{ENDO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.05.10-976.95
+ - Ongeldige RIZIV: 1-46199-77-583
+
+Lijn: 361
+Inhoud: 32.07.13-481.44;NONNEMAN;BART;1-09280-39-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 32.07.13-481.44
+ - Ongeldige RIZIV: 1-09280-39-100
+
+Lijn: 362
+Inhoud: 40.01.24-045.82;NOORI;HAZIM;1-48588-16-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.01.24-045.82
+ - Ongeldige RIZIV: 1-48588-16-000
+
+Lijn: 363
+Inhoud: 90.02.18-453.38;OLEMANS;DIRK;1-07827-37-780;{PSYC};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.02.18-453.38
+ - Ongeldige RIZIV: 1-07827-37-780
+
+Lijn: 364
+Inhoud: 31.12.26-777.51;OOMS;DIRK;1-98820-30-970;{NUCL};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 31.12.26-777.51
+ - Ongeldige RIZIV: 1-98820-30-970
+
+Lijn: 365
+Inhoud: 85.07.27-736.94;PAEPS;ERIKA;1-48519-85-690;{PEDI};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.07.27-736.94
+ - Ongeldige RIZIV: 1-48519-85-690
+
+Lijn: 366
+Inhoud: 02.08.22-620.68;PARDON;HELEEN-ELISE;1-99915-02-140;{CHIR};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.08.22-620.68
+ - Ongeldige RIZIV: 1-99915-02-140
+
+Lijn: 367
+Inhoud: 99.01.13-675.51;PARDON;PAUL;1-46563-04-340;{GYNA};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.01.13-675.51
+ - Ongeldige RIZIV: 1-46563-04-340
+
+Lijn: 368
+Inhoud: 47.09.14-590.40;PARYS;ROEL;1-00138-63-830;{REVA};{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.09.14-590.40
+ - Ongeldige RIZIV: 1-00138-63-830
+
+Lijn: 369
+Inhoud: 01.08.03-874.68;PAUWELS;BAUKE;1-48756-42-410;{ORL};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.08.03-874.68
+ - Ongeldige RIZIV: 1-48756-42-410
+
+Lijn: 370
+Inhoud: 56.01.30-163.23;PAUWELS;ELISABETH;1-19295-15-450;{UROL};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.01.30-163.23
+ - Ongeldige RIZIV: 1-19295-15-450
+
+Lijn: 371
+Inhoud: 93.05.05-040.52;PAUWELS;ERIC;1-76402-41-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.05.05-040.52
+ - Ongeldige RIZIV: 1-76402-41-100
+
+Lijn: 372
+Inhoud: 03.10.04-456.71;PEEREN;FREDERICK;1-47252-91-450;{UROL};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.10.04-456.71
+ - Ongeldige RIZIV: 1-47252-91-450
+
+Lijn: 373
+Inhoud: 96.01.02-640.62;PEETERS;GERTJAN;1-03381-37-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.01.02-640.62
+ - Ongeldige RIZIV: 1-03381-37-770
+
+Lijn: 374
+Inhoud: 53.02.08-410.89;PEETERS;GWENDOLYNE;1-82336-24-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.02.08-410.89
+ - Ongeldige RIZIV: 1-82336-24-588
+
+Lijn: 375
+Inhoud: 42.08.06-481.83;PEETERS;ILSE;1-99819-01-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.08.06-481.83
+ - Ongeldige RIZIV: 1-99819-01-770
+
+Lijn: 376
+Inhoud: 41.06.29-072.58;PEETERS;PIETER;1-11154-07-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 41.06.29-072.58
+ - Ongeldige RIZIV: 1-11154-07-000
+
+Lijn: 377
+Inhoud: 70.12.29-787.91;PEETERS;QUINTEN;1-75619-48-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.12.29-787.91
+ - Ongeldige RIZIV: 1-75619-48-000
+
+Lijn: 378
+Inhoud: 79.11.02-542.67;PEETERS;STEFAAN;1-46192-84-690;{PEDI};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.11.02-542.67
+ - Ongeldige RIZIV: 1-46192-84-690
+
+Lijn: 379
+Inhoud: 79.07.27-002.23;PEETERS;TOM;1-19352-55-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.07.27-002.23
+ - Ongeldige RIZIV: 1-19352-55-480
+
+Lijn: 380
+Inhoud: 64.09.26-329.07;PELEMAN;LUTGARDE;1-45412-88-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.09.26-329.07
+ - Ongeldige RIZIV: 1-45412-88-180
+
+Lijn: 381
+Inhoud: 40.03.02-708.93;PENICKA;MARTIN;1-48146-70-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.03.02-708.93
+ - Ongeldige RIZIV: 1-48146-70-730
+
+Lijn: 382
+Inhoud: 82.02.27-692.40;PEYTCHEV;PETER;1-35951-43-730;{CARD};{PAAN}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.02.27-692.40
+ - Ongeldige RIZIV: 1-35951-43-730
+
+Lijn: 383
+Inhoud: 65.04.23-025.96;PHILIPS;THOMAS;1-08786-61-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.04.23-025.96
+ - Ongeldige RIZIV: 1-08786-61-480
+
+Lijn: 384
+Inhoud: 84.09.04-782.52;PLAETINCK;INEKE;1-48102-17-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.09.04-782.52
+ - Ongeldige RIZIV: 1-48102-17-000
+
+Lijn: 385
+Inhoud: 57.11.07-456.26;PLANKEN;SIMON;1-00930-47-598;{HEMA};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 57.11.07-456.26
+ - Ongeldige RIZIV: 1-00930-47-598
+
+Lijn: 386
+Inhoud: 37.05.25-528.19;PLETINCKX;AN;1-73309-30-620;{PNEU};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.05.25-528.19
+ - Ongeldige RIZIV: 1-73309-30-620
+
+Lijn: 387
+Inhoud: 79.05.12-782.67;PODEVIJN;LIES;1-10747-58-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 79.05.12-782.67
+ - Ongeldige RIZIV: 1-10747-58-480
+
+Lijn: 388
+Inhoud: 87.04.28-078.64;PODEVYN;PASCAL;1-46187-89-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.04.28-078.64
+ - Ongeldige RIZIV: 1-46187-89-480
+
+Lijn: 389
+Inhoud: 37.05.03-742.77;POLLET;EDGAR;1-10557-70-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.05.03-742.77
+ - Ongeldige RIZIV: 1-10557-70-588
+
+Lijn: 390
+Inhoud: 56.10.19-086.08;POTVLIEGHE;PETER;1-66388-64-140;{CHIR};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.10.19-086.08
+ - Ongeldige RIZIV: 1-66388-64-140
+
+Lijn: 391
+Inhoud: 88.12.23-328.41;PYPE;ANNICK;1-43226-43-550;{DERM};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 88.12.23-328.41
+ - Ongeldige RIZIV: 1-43226-43-550
+
+Lijn: 392
+Inhoud: 85.08.18-085.52;RAAIJMAAKERS;MARTIJN;1-73491-42-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.08.18-085.52
+ - Ongeldige RIZIV: 1-73491-42-480
+
+Lijn: 393
+Inhoud: 59.09.20-360.51;RAEMAEKERS;JORIS;1-82354-06-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.09.20-360.51
+ - Ongeldige RIZIV: 1-82354-06-100
+
+Lijn: 394
+Inhoud: 38.03.08-251.37;RAES;LIZE;1-99209-29-830;{REVA};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.03.08-251.37
+ - Ongeldige RIZIV: 1-99209-29-830
+
+Lijn: 395
+Inhoud: 49.11.12-199.62;RAPPE;BERNARD;1-44949-66-450;{UROL};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.11.12-199.62
+ - Ongeldige RIZIV: 1-44949-66-450
+
+Lijn: 396
+Inhoud: 84.04.13-866.51;REEKMANS;ANN;1-73093-52-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 84.04.13-866.51
+ - Ongeldige RIZIV: 1-73093-52-588
+
+Lijn: 397
+Inhoud: 43.01.20-255.55;REGEER;JEROEN;1-74891-97-520;{STOM};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 43.01.20-255.55
+ - Ongeldige RIZIV: 1-74891-97-520
+
+Lijn: 398
+Inhoud: 74.10.14-594.28;REZAIE;WAHID;1-82203-60-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.10.14-594.28
+ - Ongeldige RIZIV: 1-82203-60-480
+
+Lijn: 399
+Inhoud: 62.10.05-792.42;RIMBAUT;STEVEN;1-46747-14-830;{REVA};{ONCO}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.10.05-792.42
+ - Ongeldige RIZIV: 1-46747-14-830
+
+Lijn: 400
+Inhoud: 30.05.20-663.81;RINGOIR;JOLIEN;1-82215-48-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.05.20-663.81
+ - Ongeldige RIZIV: 1-82215-48-100
+
+Lijn: 401
+Inhoud: 33.07.21-453.47;ROBBERECHT;KIRSTEN;1-76979-46-370;{OPHT};{GASTG}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.07.21-453.47
+ - Ongeldige RIZIV: 1-76979-46-370
+
+Lijn: 402
+Inhoud: 40.10.02-083.88;ROBBERECHTS;QUINTEN;1-09397-19-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.10.02-083.88
+ - Ongeldige RIZIV: 1-09397-19-960
+
+Lijn: 403
+Inhoud: 88.03.16-476.40;ROELANDT;JONI;1-38498-18-780;{PSYC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 88.03.16-476.40
+ - Ongeldige RIZIV: 1-38498-18-780
+
+Lijn: 404
+Inhoud: 46.06.04-222.84;ROELANDT;LINA;1-12605-69-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.06.04-222.84
+ - Ongeldige RIZIV: 1-12605-69-480
+
+Lijn: 405
+Inhoud: 33.05.17-929.65;ROELSTRAETE;ADELHEID;1-44997-18-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.05.17-929.65
+ - Ongeldige RIZIV: 1-44997-18-960
+
+Lijn: 406
+Inhoud: 34.04.28-767.08;ROMBAUT;ANNE;1-08185-67-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.04.28-767.08
+ - Ongeldige RIZIV: 1-08185-67-100
+
+Lijn: 407
+Inhoud: 34.02.09-228.36;ROMBAUT;BART;1-46944-11-620;{PNEU};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.02.09-228.36
+ - Ongeldige RIZIV: 1-46944-11-620
+
+Lijn: 408
+Inhoud: 64.01.31-589.26;ROSSEEL;LIESBETH;1-98523-36-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.01.31-589.26
+ - Ongeldige RIZIV: 1-98523-36-730
+
+Lijn: 409
+Inhoud: 67.05.18-521.90;ROUBELAKIS;APOSTOLOS;1-82050-19-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.05.18-521.90
+ - Ongeldige RIZIV: 1-82050-19-770
+
+Lijn: 410
+Inhoud: 93.10.13-881.73;ROWIES;DRIES;1-98544-15-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.10.13-881.73
+ - Ongeldige RIZIV: 1-98544-15-180
+
+Lijn: 411
+Inhoud: 92.06.08-291.85;ROWIES;MARC;1-43621-36-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.06.08-291.85
+ - Ongeldige RIZIV: 1-43621-36-180
+
+Lijn: 412
+Inhoud: 90.01.08-474.19;RUMMENS;ELLEN;1-59672-87-410;{ORL};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.01.08-474.19
+ - Ongeldige RIZIV: 1-59672-87-410
+
+Lijn: 413
+Inhoud: 78.07.15-602.53;SABLON;ADRIAAN;1-99336-96-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.07.15-602.53
+ - Ongeldige RIZIV: 1-99336-96-100
+
+Lijn: 414
+Inhoud: 47.06.06-039.34;SALHIYYAH;MUHAMMED;1-82285-75-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.06.06-039.34
+ - Ongeldige RIZIV: 1-82285-75-000
+
+Lijn: 415
+Inhoud: 65.09.16-371.92;SALLET;GASTON;1-41683-34-370;{OPHT};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.09.16-371.92
+ - Ongeldige RIZIV: 1-41683-34-370
+
+Lijn: 416
+Inhoud: 75.08.17-718.15;SALLET;GUY;1-45799-89-370;{OPHT};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.08.17-718.15
+ - Ongeldige RIZIV: 1-45799-89-370
+
+Lijn: 417
+Inhoud: 03.02.28-824.71;SAMYN;EMMANUEL;1-46971-81-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.02.28-824.71
+ - Ongeldige RIZIV: 1-46971-81-000
+
+Lijn: 418
+Inhoud: 36.03.03-040.65;SAMYN;JOHANNES;1-14232-44-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.03.03-040.65
+ - Ongeldige RIZIV: 1-14232-44-660
+
+Lijn: 419
+Inhoud: 01.08.14-041.71;SCHATTEMAN;PETER;1-18675-53-450;{UROL};{GERC}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.08.14-041.71
+ - Ongeldige RIZIV: 1-18675-53-450
+
+Lijn: 420
+Inhoud: 71.09.13-979.88;SCHEIRE;ELINE;1-37125-33-340;{GYNA};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.09.13-979.88
+ - Ongeldige RIZIV: 1-37125-33-340
+
+Lijn: 421
+Inhoud: 80.07.02-947.43;SCHELFAUT;DAN;1-19980-09-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 80.07.02-947.43
+ - Ongeldige RIZIV: 1-19980-09-000
+
+Lijn: 422
+Inhoud: 87.02.25-230.85;SCHELFHOUT;ANNE-MARIE;1-45895-90-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.02.25-230.85
+ - Ongeldige RIZIV: 1-45895-90-000
+
+Lijn: 423
+Inhoud: 60.04.23-704.88;SCHELSTRAETE;CAROLINE;1-47644-87-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.04.23-704.88
+ - Ongeldige RIZIV: 1-47644-87-770
+
+Lijn: 424
+Inhoud: 01.07.22-360.71;SCHOCKAERT;PHILIPPE;1-44332-04-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.07.22-360.71
+ - Ongeldige RIZIV: 1-44332-04-000
+
+Lijn: 425
+Inhoud: 47.08.03-917.36;SCHOLLAERT;GERRIT;1-43307-59-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 47.08.03-917.36
+ - Ongeldige RIZIV: 1-43307-59-588
+
+Lijn: 426
+Inhoud: 00.07.25-011.71;SCHREUER;MAX;1-37071-87-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.07.25-011.71
+ - Ongeldige RIZIV: 1-37071-87-588
+
+Lijn: 427
+Inhoud: 95.12.24-006.92;SERGOYNE;VEERLE;1-19932-57-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.12.24-006.92
+ - Ongeldige RIZIV: 1-19932-57-100
+
+Lijn: 428
+Inhoud: 69.08.09-649.04;SERMIJN;ERICA;1-73246-93-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.08.09-649.04
+ - Ongeldige RIZIV: 1-73246-93-960
+
+Lijn: 429
+Inhoud: 74.08.14-028.95;SERMON;FILIP;1-86890-29-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.08.14-028.95
+ - Ongeldige RIZIV: 1-86890-29-588
+
+Lijn: 430
+Inhoud: 38.03.17-831.60;SERRIEN;ANOUK;1-79411-39-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.03.17-831.60
+ - Ongeldige RIZIV: 1-79411-39-770
+
+Lijn: 431
+Inhoud: 49.02.19-380.93;SEUTIN;MATHIEU;1-10175-07-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.02.19-380.93
+ - Ongeldige RIZIV: 1-10175-07-480
+
+Lijn: 432
+Inhoud: 87.05.04-522.56;SEYNHAVE;BRUNO;1-35793-07-340;{GYNA};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.05.04-522.56
+ - Ongeldige RIZIV: 1-35793-07-340
+
+Lijn: 433
+Inhoud: 02.11.21-891.71;SHUMKOVA;MONIKA;1-08148-76-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.11.21-891.71
+ - Ongeldige RIZIV: 1-08148-76-730
+
+Lijn: 434
+Inhoud: 39.08.29-567.20;SIEIRA RODRIGUEZ-MORET;JUAN;1-99417-15-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.08.29-567.20
+ - Ongeldige RIZIV: 1-99417-15-730
+
+Lijn: 435
+Inhoud: 74.08.14-022.04;SIMOENS;WILLIAM;1-18314-26-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.08.14-022.04
+ - Ongeldige RIZIV: 1-18314-26-660
+
+Lijn: 436
+Inhoud: 66.04.06-705.44;SIMON;NORA;1-12566-19-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.04.06-705.44
+ - Ongeldige RIZIV: 1-12566-19-000
+
+Lijn: 437
+Inhoud: 49.10.15-822.21;SIMONS;PHILIP;1-07963-95-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.10.15-822.21
+ - Ongeldige RIZIV: 1-07963-95-000
+
+Lijn: 438
+Inhoud: 55.03.12-380.48;SMETS;CEDRIC;1-38391-28-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.03.12-380.48
+ - Ongeldige RIZIV: 1-38391-28-588
+
+Lijn: 439
+Inhoud: 78.10.28-558.19;SNICK;GRETA;1-33989-65-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.10.28-558.19
+ - Ongeldige RIZIV: 1-33989-65-660
+
+Lijn: 440
+Inhoud: 52.07.18-132.81;SOLANO NISIMBLAT;PAOLA;1-48731-67-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 52.07.18-132.81
+ - Ongeldige RIZIV: 1-48731-67-960
+
+Lijn: 441
+Inhoud: 49.04.19-368.22;SONCK;JEROEN;1-19734-61-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.04.19-368.22
+ - Ongeldige RIZIV: 1-19734-61-730
+
+Lijn: 442
+Inhoud: 94.08.13-678.89;SOUFFRIAU;PATRICIA;1-43998-47-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.08.13-678.89
+ - Ongeldige RIZIV: 1-43998-47-180
+
+Lijn: 443
+Inhoud: 36.03.18-006.37;SPAPEN;JERROLD;1-99237-01-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.03.18-006.37
+ - Ongeldige RIZIV: 1-99237-01-730
+
+Lijn: 444
+Inhoud: 46.07.23-725.85;ST LOUIS;PATRICIA;1-09125-78-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.07.23-725.85
+ - Ongeldige RIZIV: 1-09125-78-660
+
+Lijn: 445
+Inhoud: 55.03.09-014.19;STEENBRUGGE;FRANKY;1-35133-85-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.03.09-014.19
+ - Ongeldige RIZIV: 1-35133-85-480
+
+Lijn: 446
+Inhoud: 58.11.20-706.86;STEENHOUT;ANNELIEN;1-82135-31-100;{ANES};{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.11.20-706.86
+ - Ongeldige RIZIV: 1-82135-31-100
+
+Lijn: 447
+Inhoud: 33.04.09-220.37;STEVENS;SIMON;1-75240-39-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.04.09-220.37
+ - Ongeldige RIZIV: 1-75240-39-100
+
+Lijn: 448
+Inhoud: 49.06.13-587.94;STOCKMAN;BERNARD;1-34442-97-140;{CHIR};{GASTG}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.06.13-587.94
+ - Ongeldige RIZIV: 1-34442-97-140
+
+Lijn: 449
+Inhoud: 72.07.06-800.96;STOCKMAN;JANNEKEN;1-79747-91-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.07.06-800.96
+ - Ongeldige RIZIV: 1-79747-91-100
+
+Lijn: 450
+Inhoud: 42.04.13-143.86;STRYPENS;THOMAS;1-01348-23-860;{BIOL};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.04.13-143.86
+ - Ongeldige RIZIV: 1-01348-23-860
+
+Lijn: 451
+Inhoud: 54.08.18-999.39;STUBBE;MURIEL;1-89057-93-790;{REUM};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.08.18-999.39
+ - Ongeldige RIZIV: 1-89057-93-790
+
+Lijn: 452
+Inhoud: 03.06.28-380.71;STYLEMANS;DIMITRI;1-82021-48-620;{PNEU};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.06.28-380.71
+ - Ongeldige RIZIV: 1-82021-48-620
+
+Lijn: 453
+Inhoud: 61.03.28-896.51;SUY;KOEN;1-18127-19-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.03.28-896.51
+ - Ongeldige RIZIV: 1-18127-19-100
+
+Lijn: 454
+Inhoud: 71.07.09-133.70;TACK;LAURENCE;1-98621-35-520;{STOM};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.07.09-133.70
+ - Ongeldige RIZIV: 1-98621-35-520
+
+Lijn: 455
+Inhoud: 96.10.31-837.28;TACKAERT;THOMAS;1-82353-07-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.10.31-837.28
+ - Ongeldige RIZIV: 1-82353-07-000
+
+Lijn: 456
+Inhoud: 81.06.23-433.38;THOMAS;BARTEL;1-48622-79-830;{REVA};{ONCO}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.06.23-433.38
+ - Ongeldige RIZIV: 1-48622-79-830
+
+Lijn: 457
+Inhoud: 76.02.15-116.74;TIMMERMANS;LIEN;1-48001-21-830;{REVA};{GASTG}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 76.02.15-116.74
+ - Ongeldige RIZIV: 1-48001-21-830
+
+Lijn: 458
+Inhoud: 74.02.01-800.59;TORISAEN;LIEN;1-99025-19-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.02.01-800.59
+ - Ongeldige RIZIV: 1-99025-19-100
+
+Lijn: 459
+Inhoud: 86.11.06-372.70;TORRICO ESTRADA;CLAUDIA;1-76242-07-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.11.06-372.70
+ - Ongeldige RIZIV: 1-76242-07-660
+
+Lijn: 460
+Inhoud: 98.05.16-347.05;TOURNOY;KURT;1-46755-06-620;{PNEU};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.05.16-347.05
+ - Ongeldige RIZIV: 1-46755-06-620
+
+Lijn: 461
+Inhoud: 83.01.20-152.28;TRAEN;KOEN;1-47131-18-340;{GYNA};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 83.01.20-152.28
+ - Ongeldige RIZIV: 1-47131-18-340
+
+Lijn: 462
+Inhoud: 44.09.27-489.76;TRAPPENIERS;LAURENCE;1-46890-65-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.09.27-489.76
+ - Ongeldige RIZIV: 1-46890-65-960
+
+Lijn: 463
+Inhoud: 49.11.18-991.60;TRIANTFYLLOU;KONSTANTINOS;1-10697-19-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.11.18-991.60
+ - Ongeldige RIZIV: 1-10697-19-660
+
+Lijn: 464
+Inhoud: 55.02.22-054.67;TROUBLEYN;JORIS;1-09279-40-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.02.22-054.67
+ - Ongeldige RIZIV: 1-09279-40-480
+
+Lijn: 465
+Inhoud: 45.03.19-388.08;TSITSI;PANAGIOTA;1-09116-87-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.03.19-388.08
+ - Ongeldige RIZIV: 1-09116-87-770
+
+Lijn: 466
+Inhoud: 03.06.24-693.71;TUYBENS;PIETERJAN;1-48742-56-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.06.24-693.71
+ - Ongeldige RIZIV: 1-48742-56-100
+
+Lijn: 467
+Inhoud: 33.10.18-562.49;TYTGAT;NIEK;1-98138-33-100;{ANES};{RADI}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.10.18-562.49
+ - Ongeldige RIZIV: 1-98138-33-100
+
+Lijn: 468
+Inhoud: 42.05.28-879.71;USHAKOVA;VALENTINA;1-39441-45-100;{ANES};{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 42.05.28-879.71
+ - Ongeldige RIZIV: 1-39441-45-100
+
+Lijn: 469
+Inhoud: 54.08.10-284.24;UVIN;BRECHT;1-00942-73-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.08.10-284.24
+ - Ongeldige RIZIV: 1-00942-73-180
+
+Lijn: 470
+Inhoud: 98.05.16-590.53;VALAUSKAITE;GABIJA;1-11540-66-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.05.16-590.53
+ - Ongeldige RIZIV: 1-11540-66-100
+
+Lijn: 471
+Inhoud: 36.09.16-512.21;VAN BELLINGHEN;MARC;1-06192-23-780;{PSYC};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.09.16-512.21
+ - Ongeldige RIZIV: 1-06192-23-780
+
+Lijn: 472
+Inhoud: 91.06.13-725.62;VAN BIESEN;SOFIE-AN;1-79293-60-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.06.13-725.62
+ - Ongeldige RIZIV: 1-79293-60-000
+
+Lijn: 473
+Inhoud: 82.01.01-991.29;VAN BREMPT;BERT;1-06446-87-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 82.01.01-991.29
+ - Ongeldige RIZIV: 1-06446-87-480
+
+Lijn: 474
+Inhoud: 03.11.10-503.71;VAN BREMPT;ETIENNE;1-43579-78-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 03.11.10-503.71
+ - Ongeldige RIZIV: 1-43579-78-960
+
+Lijn: 475
+Inhoud: 38.11.28-894.14;VAN CAENEGEM;QUENTIN;1-12738-25-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.11.28-894.14
+ - Ongeldige RIZIV: 1-12738-25-660
+
+Lijn: 476
+Inhoud: 48.09.08-913.15;VAN CAMP;GUY;1-06413-93-730;{CARD};{GASTG}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.09.08-913.15
+ - Ongeldige RIZIV: 1-06413-93-730
+
+Lijn: 477
+Inhoud: 33.07.11-683.20;VAN CAMP;JOKE;1-39711-66-340;{GYNA};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.07.11-683.20
+ - Ongeldige RIZIV: 1-39711-66-340
+
+Lijn: 478
+Inhoud: 00.01.25-771.71;VAN CAMPENHOUT;ILIA;1-37568-75-140;{CHIR};{GASTG}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 00.01.25-771.71
+ - Ongeldige RIZIV: 1-37568-75-140
+
+Lijn: 479
+Inhoud: 39.07.06-043.63;VAN CAUTEREN;LAURENT;1-10149-33-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.07.06-043.63
+ - Ongeldige RIZIV: 1-10149-33-000
+
+Lijn: 480
+Inhoud: 51.07.26-137.09;VAN CAUWELAERT;STEFAN;1-39455-31-590;{NEFR};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.07.26-137.09
+ - Ongeldige RIZIV: 1-39455-31-590
+
+Lijn: 481
+Inhoud: 85.04.01-355.70;VAN CAUWENBERGHE;SIL;1-01842-63-780;{PSYC};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.04.01-355.70
+ - Ongeldige RIZIV: 1-01842-63-780
+
+Lijn: 482
+Inhoud: 55.03.07-993.70;VAN COMPERNOLLE;DRIES;1-48807-88-450;{UROL};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.03.07-993.70
+ - Ongeldige RIZIV: 1-48807-88-450
+
+Lijn: 483
+Inhoud: 98.05.30-100.26;VAN DAELE;CHRISTINE;1-44475-55-520;{STOM};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.05.30-100.26
+ - Ongeldige RIZIV: 1-44475-55-520
+
+Lijn: 484
+Inhoud: 81.05.01-533.09;VAN DAMME;PIETER;1-42488-05-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.05.01-533.09
+ - Ongeldige RIZIV: 1-42488-05-770
+
+Lijn: 485
+Inhoud: 56.01.30-586.85;VAN DE MEULEBROUCKE;BART;1-08286-63-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.01.30-586.85
+ - Ongeldige RIZIV: 1-08286-63-480
+
+Lijn: 486
+Inhoud: 54.02.11-808.10;VAN DE MEULEBROUCKE;CASPER;1-79214-42-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.02.11-808.10
+ - Ongeldige RIZIV: 1-79214-42-480
+
+Lijn: 487
+Inhoud: 73.07.14-975.90;VAN DE STEEN;LUKAS;1-39413-73-780;{PSYC};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 73.07.14-975.90
+ - Ongeldige RIZIV: 1-39413-73-780
+
+Lijn: 488
+Inhoud: 59.11.02-660.14;VAN DE VELDE;JAN;1-44033-12-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.11.02-660.14
+ - Ongeldige RIZIV: 1-44033-12-770
+
+Lijn: 489
+Inhoud: 88.01.30-241.35;VAN DE VELDE;JULIE;1-48200-16-100;{ANES};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 88.01.30-241.35
+ - Ongeldige RIZIV: 1-48200-16-100
+
+Lijn: 490
+Inhoud: 96.05.08-634.13;VAN DE WINKEL;TOBIAS;1-37499-47-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.05.08-634.13
+ - Ongeldige RIZIV: 1-37499-47-140
+
+Lijn: 491
+Inhoud: 58.07.25-600.14;VAN DEN ABBEELE;JOSSE;1-45063-49-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.07.25-600.14
+ - Ongeldige RIZIV: 1-45063-49-660
+
+Lijn: 492
+Inhoud: 90.04.13-037.36;VAN DEN ABBEELE;PATRICK;1-43771-80-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.04.13-037.36
+ - Ongeldige RIZIV: 1-43771-80-000
+
+Lijn: 493
+Inhoud: 90.07.31-954.55;VAN DEN BERGHE;MARTHE;1-46710-51-790;{REUM};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.07.31-954.55
+ - Ongeldige RIZIV: 1-46710-51-790
+
+Lijn: 494
+Inhoud: 91.05.10-464.18;VAN DEN BOSSCHE;BERT;1-76405-38-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.05.10-464.18
+ - Ongeldige RIZIV: 1-76405-38-140
+
+Lijn: 495
+Inhoud: 38.12.19-546.57;VAN DEN EYNDE;HERMAN;1-05928-93-520;{STOM};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.12.19-546.57
+ - Ongeldige RIZIV: 1-05928-93-520
+
+Lijn: 496
+Inhoud: 55.01.13-963.03;VAN DEN HAUTE;LIEN;1-48135-81-340;{GYNA};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.01.13-963.03
+ - Ongeldige RIZIV: 1-48135-81-340
+
+Lijn: 497
+Inhoud: 83.03.29-221.91;VAN DEN HEEDE;KLAAS;1-48367-43-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 83.03.29-221.91
+ - Ongeldige RIZIV: 1-48367-43-140
+
+Lijn: 498
+Inhoud: 93.01.14-384.89;VAN DEN LANGENBERGH;JEROEN;1-37963-68-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.01.14-384.89
+ - Ongeldige RIZIV: 1-37963-68-480
+
+Lijn: 499
+Inhoud: 69.11.09-549.28;VAN DER KELEN;VICKY;1-47173-73-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.11.09-549.28
+ - Ongeldige RIZIV: 1-47173-73-180
+
+Lijn: 500
+Inhoud: 46.06.28-088.80;VAN DER KELEN;WILLY;1-42242-57-100;{ANES};{ONCO}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.06.28-088.80
+ - Ongeldige RIZIV: 1-42242-57-100
+
+Lijn: 501
+Inhoud: 94.03.29-089.66;VAN DER MEERSCH;FILIP;1-46277-96-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.03.29-089.66
+ - Ongeldige RIZIV: 1-46277-96-588
+
+Lijn: 502
+Inhoud: 98.10.31-770.40;VAN DER MEERSCH;MATHIEU;1-79215-41-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 98.10.31-770.40
+ - Ongeldige RIZIV: 1-79215-41-588
+
+Lijn: 503
+Inhoud: 54.04.23-785.75;VAN DER STEEN;KRIS;1-06140-75-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.04.23-785.75
+ - Ongeldige RIZIV: 1-06140-75-000
+
+Lijn: 504
+Inhoud: 41.04.26-272.31;VAN DER STRAETEN;INEZ;1-10130-52-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 41.04.26-272.31
+ - Ongeldige RIZIV: 1-10130-52-770
+
+Lijn: 505
+Inhoud: 87.02.10-745.20;VAN DER STRICHT;TOM;1-00443-38-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.02.10-745.20
+ - Ongeldige RIZIV: 1-00443-38-960
+
+Lijn: 506
+Inhoud: 44.06.28-159.64;VAN DER VEKEN;JORN;1-98971-73-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.06.28-159.64
+ - Ongeldige RIZIV: 1-98971-73-588
+
+Lijn: 507
+Inhoud: 86.11.14-990.85;VAN DER VEKEN;PAUL;1-45936-49-410;{ORL};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.11.14-990.85
+ - Ongeldige RIZIV: 1-45936-49-410
+
+Lijn: 508
+Inhoud: 02.12.25-316.71;VAN DER VOORT;JOHAN;1-08077-78-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.12.25-316.71
+ - Ongeldige RIZIV: 1-08077-78-588
+
+Lijn: 509
+Inhoud: 87.10.23-257.77;VAN DROOGENBROECK;GIJS;1-47729-02-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.10.23-257.77
+ - Ongeldige RIZIV: 1-47729-02-180
+
+Lijn: 510
+Inhoud: 83.12.03-873.88;VAN EECKHOUT;GREGORY;1-76095-57-210;{PLCH};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 83.12.03-873.88
+ - Ongeldige RIZIV: 1-76095-57-210
+
+Lijn: 511
+Inhoud: 75.01.08-830.27;VAN ELSEN;KIM;1-76826-05-100;{ANES};{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.01.08-830.27
+ - Ongeldige RIZIV: 1-76826-05-100
+
+Lijn: 512
+Inhoud: 64.06.30-862.12;VAN ERPS;JOANNA;1-46537-30-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.06.30-862.12
+ - Ongeldige RIZIV: 1-46537-30-000
+
+Lijn: 513
+Inhoud: 49.12.10-707.09;VAN EYKEN;JOZEF;1-01535-14-370;{OPHT};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.12.10-707.09
+ - Ongeldige RIZIV: 1-01535-14-370
+
+Lijn: 514
+Inhoud: 53.06.09-526.68;VAN GYSEL;DIRK;1-46346-27-690;{PEDI};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 53.06.09-526.68
+ - Ongeldige RIZIV: 1-46346-27-690
+
+Lijn: 515
+Inhoud: 81.02.27-240.83;VAN HAUDT;LAURA;1-09903-12-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.02.27-240.83
+ - Ongeldige RIZIV: 1-09903-12-000
+
+Lijn: 516
+Inhoud: 74.10.13-424.34;VAN HECK;NELE;1-82306-54-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.10.13-424.34
+ - Ongeldige RIZIV: 1-82306-54-100
+
+Lijn: 517
+Inhoud: 40.05.25-431.82;VAN HEDDEGHEM;NATHALIE;1-47073-76-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.05.25-431.82
+ - Ongeldige RIZIV: 1-47073-76-000
+
+Lijn: 518
+Inhoud: 70.11.12-463.45;VAN HEDENT;EDDY;1-45576-21-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 70.11.12-463.45
+ - Ongeldige RIZIV: 1-45576-21-000
+
+Lijn: 519
+Inhoud: 62.04.03-724.31;VAN HEMELRIJK;CHRISTINE;1-48215-01-690;{PEDI};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.04.03-724.31
+ - Ongeldige RIZIV: 1-48215-01-690
+
+Lijn: 520
+Inhoud: 62.09.08-941.87;VAN HERZEELE;TINA;1-02371-61-780;{PSYC};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.09.08-941.87
+ - Ongeldige RIZIV: 1-02371-61-780
+
+Lijn: 521
+Inhoud: 74.04.24-888.71;VAN HEUVERSWYN;ANTOINE;1-43188-81-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 74.04.24-888.71
+ - Ongeldige RIZIV: 1-43188-81-588
+
+Lijn: 522
+Inhoud: 46.07.12-497.61;VAN HOE;LIEVEN;1-08247-05-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.07.12-497.61
+ - Ongeldige RIZIV: 1-08247-05-960
+
+Lijn: 523
+Inhoud: 33.11.17-754.88;VAN HOE;WILLEM;1-05136-62-370;{OPHT};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.11.17-754.88
+ - Ongeldige RIZIV: 1-05136-62-370
+
+Lijn: 524
+Inhoud: 01.11.05-150.68;VAN HOUCKE;JAN;1-48815-80-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.11.05-150.68
+ - Ongeldige RIZIV: 1-48815-80-480
+
+Lijn: 525
+Inhoud: 68.09.08-268.13;VAN HOUWE;MATTHIAS;1-79255-01-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.09.08-268.13
+ - Ongeldige RIZIV: 1-79255-01-100
+
+Lijn: 526
+Inhoud: 05.03.09-007.71;VAN HOVER;PHILIP;1-08218-34-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 05.03.09-007.71
+ - Ongeldige RIZIV: 1-08218-34-480
+
+Lijn: 527
+Inhoud: 87.05.17-412.67;VAN HOYDONCK;MARIJKE;1-89999-24-790;{REUM};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 87.05.17-412.67
+ - Ongeldige RIZIV: 1-89999-24-790
+
+Lijn: 528
+Inhoud: 38.06.02-224.71;VAN HUFFEL;LIESBETH;1-48103-16-583;{ENDO};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.06.02-224.71
+ - Ongeldige RIZIV: 1-48103-16-583
+
+Lijn: 529
+Inhoud: 58.05.17-875.62;VAN LAER;MARIE;1-36718-52-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.05.17-875.62
+ - Ongeldige RIZIV: 1-36718-52-000
+
+Lijn: 530
+Inhoud: 55.09.18-998.68;VAN LAER;WENDY;1-76667-67-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 55.09.18-998.68
+ - Ongeldige RIZIV: 1-76667-67-588
+
+Lijn: 531
+Inhoud: 91.04.03-729.53;VAN LANGENHOVE;KIM;1-01347-24-370;{OPHT};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.04.03-729.53
+ - Ongeldige RIZIV: 1-01347-24-370
+
+Lijn: 532
+Inhoud: 68.11.29-411.30;VAN LANGENHOVE;LUC;1-46025-57-370;{OPHT};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.11.29-411.30
+ - Ongeldige RIZIV: 1-46025-57-370
+
+Lijn: 533
+Inhoud: 44.02.25-218.67;VAN LIERDE;EMMANUEL;1-08506-74-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.02.25-218.67
+ - Ongeldige RIZIV: 1-08506-74-000
+
+Lijn: 534
+Inhoud: 64.07.23-391.21;VAN LIERDE;KATRIEN;1-38885-19-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.07.23-391.21
+ - Ongeldige RIZIV: 1-38885-19-000
+
+Lijn: 535
+Inhoud: 46.08.25-642.18;VAN LIMBERGEN;JOHAN;1-47230-16-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.08.25-642.18
+ - Ongeldige RIZIV: 1-47230-16-480
+
+Lijn: 536
+Inhoud: 31.02.17-671.66;VAN MELKEBEKE;SONJA;1-35175-43-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 31.02.17-671.66
+ - Ongeldige RIZIV: 1-35175-43-100
+
+Lijn: 537
+Inhoud: 54.03.10-422.45;VAN MOLHEM;YVES;1-45672-22-140;{CHIR};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 54.03.10-422.45
+ - Ongeldige RIZIV: 1-45672-22-140
+
+Lijn: 538
+Inhoud: 38.08.16-700.62;VAN MOORTER;LUTGART;1-43690-64-620;{PNEU};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.08.16-700.62
+ - Ongeldige RIZIV: 1-43690-64-620
+
+Lijn: 539
+Inhoud: 63.08.05-420.33;VAN MULDERS;KATHLEEN;1-46060-22-340;{GYNA};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 63.08.05-420.33
+ - Ongeldige RIZIV: 1-46060-22-340
+
+Lijn: 540
+Inhoud: 60.06.10-947.55;VAN NIEUWENHOVE;MATHIAS;1-39658-22-100;{ANES};{GERC}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.06.10-947.55
+ - Ongeldige RIZIV: 1-39658-22-100
+
+Lijn: 541
+Inhoud: 81.05.14-724.10;VAN NIEUWENHOVE;SASKIA;1-98900-47-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.05.14-724.10
+ - Ongeldige RIZIV: 1-98900-47-100
+
+Lijn: 542
+Inhoud: 59.03.28-646.65;VAN OVERSCHELDE;JOHN;1-36263-22-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.03.28-646.65
+ - Ongeldige RIZIV: 1-36263-22-480
+
+Lijn: 543
+Inhoud: 86.03.20-462.86;VAN OVERWAELLE;LUC;1-42661-26-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 86.03.20-462.86
+ - Ongeldige RIZIV: 1-42661-26-000
+
+Lijn: 544
+Inhoud: 66.11.09-361.56;VAN POTTELBERGH;INGE;1-18434-03-583;{ENDO};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.11.09-361.56
+ - Ongeldige RIZIV: 1-18434-03-583
+
+Lijn: 545
+Inhoud: 64.01.13-953.08;VAN PRAET;FRANK;1-08012-46-140;{CHIR};{URGE}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 64.01.13-953.08
+ - Ongeldige RIZIV: 1-08012-46-140
+
+Lijn: 546
+Inhoud: 95.07.30-434.31;VAN PRAET;KAREL;1-37441-08-140;{CHIR};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 95.07.30-434.31
+ - Ongeldige RIZIV: 1-37441-08-140
+
+Lijn: 547
+Inhoud: 38.09.18-165.59;VAN PUYVELDE;KATRIEN;1-09898-03-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 38.09.18-165.59
+ - Ongeldige RIZIV: 1-09898-03-180
+
+Lijn: 548
+Inhoud: 81.02.06-375.93;VAN RIE;KATRIEN;1-19083-33-830;{REVA};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.02.06-375.93
+ - Ongeldige RIZIV: 1-19083-33-830
+
+Lijn: 549
+Inhoud: 68.04.28-948.56;VAN ROOY;SARAH;1-99852-65-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.04.28-948.56
+ - Ongeldige RIZIV: 1-99852-65-960
+
+Lijn: 550
+Inhoud: 02.01.31-452.71;VAN ROY;NELE;1-01062-12-583;{ENDO};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.01.31-452.71
+ - Ongeldige RIZIV: 1-01062-12-583
+
+Lijn: 551
+Inhoud: 33.07.26-635.06;VAN ROYEN;KJELL;1-37221-34-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 33.07.26-635.06
+ - Ongeldige RIZIV: 1-37221-34-480
+
+Lijn: 552
+Inhoud: 30.05.25-763.25;VAN SLYCKE;SAM;1-47147-02-140;{CHIR};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.05.25-763.25
+ - Ongeldige RIZIV: 1-47147-02-140
+
+Lijn: 553
+Inhoud: 99.05.24-787.25;VAN VAERENBERGH;KRISTIEN;1-08765-69-860;{BIOL};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.05.24-787.25
+ - Ongeldige RIZIV: 1-08765-69-860
+
+Lijn: 554
+Inhoud: 51.12.18-868.38;VAN VAERENBERGH;THOMAS;1-06123-54-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.12.18-868.38
+ - Ongeldige RIZIV: 1-06123-54-000
+
+Lijn: 555
+Inhoud: 97.12.23-068.05;VAN VAERENBERGH;YVES;1-09605-05-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.12.23-068.05
+ - Ongeldige RIZIV: 1-09605-05-960
+
+Lijn: 556
+Inhoud: 58.12.11-858.17;VAN VLAENDEREN;MATHIAS;1-75472-01-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 58.12.11-858.17
+ - Ongeldige RIZIV: 1-75472-01-000
+
+Lijn: 557
+Inhoud: 36.11.14-781.20;VAN VLEM;BRUNO;1-17983-66-590;{NEFR};{NEUR}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.11.14-781.20
+ - Ongeldige RIZIV: 1-17983-66-590
+
+Lijn: 558
+Inhoud: 68.10.03-429.09;VAN WAES;LENA;1-42453-40-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.10.03-429.09
+ - Ongeldige RIZIV: 1-42453-40-000
+
+Lijn: 559
+Inhoud: 65.09.26-168.92;VAN ZUNDERT;TOM;1-48416-91-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.09.26-168.92
+ - Ongeldige RIZIV: 1-48416-91-480
+
+Lijn: 560
+Inhoud: 59.09.04-976.12;VANAKEN;ERIC;1-79475-72-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.09.04-976.12
+ - Ongeldige RIZIV: 1-79475-72-180
+
+Lijn: 561
+Inhoud: 39.05.17-006.47;VANCLEEF;AN;1-76181-68-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 39.05.17-006.47
+ - Ongeldige RIZIV: 1-76181-68-960
+
+Lijn: 562
+Inhoud: 51.01.24-717.29;VANDEBOSCH;SIGRID;1-73456-77-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.01.24-717.29
+ - Ongeldige RIZIV: 1-73456-77-588
+
+Lijn: 563
+Inhoud: 66.09.25-314.94;VANDEGINSTE;SOFIE;1-46428-42-340;{GYNA};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 66.09.25-314.94
+ - Ongeldige RIZIV: 1-46428-42-340
+
+Lijn: 564
+Inhoud: 35.04.20-166.94;VANDEKERCKHOVE;ELISABETH;1-48569-35-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.04.20-166.94
+ - Ongeldige RIZIV: 1-48569-35-588
+
+Lijn: 565
+Inhoud: 94.11.25-302.29;VANDEKERKHOVE;STEVE;1-35838-59-410;{ORL};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.11.25-302.29
+ - Ongeldige RIZIV: 1-35838-59-410
+
+Lijn: 566
+Inhoud: 60.09.17-950.57;VANDEN BRANDEN;STIJN;1-19357-50-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.09.17-950.57
+ - Ongeldige RIZIV: 1-19357-50-588
+
+Lijn: 567
+Inhoud: 65.07.05-623.59;VANDENBERGHE;IDA;1-39211-81-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.07.05-623.59
+ - Ongeldige RIZIV: 1-39211-81-180
+
+Lijn: 568
+Inhoud: 30.04.02-173.37;VANDENBRIELE;CHRISTOPHE;1-98357-08-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.04.02-173.37
+ - Ongeldige RIZIV: 1-98357-08-730
+
+Lijn: 569
+Inhoud: 45.04.24-594.47;VANDENBROUCKE;GEERT;1-44870-48-100;{ANES};{GASTG}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 45.04.24-594.47
+ - Ongeldige RIZIV: 1-44870-48-100
+
+Lijn: 570
+Inhoud: 49.03.21-195.31;VANDENPLAS;GUY;1-09805-96-140;{CHIR};{GERC}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.03.21-195.31
+ - Ongeldige RIZIV: 1-09805-96-140
+
+Lijn: 571
+Inhoud: 75.03.14-918.64;VANDEPUT;DIRK;1-46510-57-100;{ANES};{ORTH}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 75.03.14-918.64
+ - Ongeldige RIZIV: 1-46510-57-100
+
+Lijn: 572
+Inhoud: 40.04.19-116.85;VANDER CRUYSSEN;BERT;1-36125-63-790;{REUM};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 40.04.19-116.85
+ - Ongeldige RIZIV: 1-36125-63-790
+
+Lijn: 573
+Inhoud: 94.07.01-116.34;VANDER MIJNSBRUGGE;JORIS;1-99884-33-370;{OPHT};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.07.01-116.34
+ - Ongeldige RIZIV: 1-99884-33-370
+
+Lijn: 574
+Inhoud: 67.07.12-057.69;VANDERHEYDEN;MARC;1-16925-57-730;{CARD};{NEUR}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.07.12-057.69
+ - Ongeldige RIZIV: 1-16925-57-730
+
+Lijn: 575
+Inhoud: 05.12.10-326.71;VANDERLINDEN;ESTHER;1-00183-18-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 05.12.10-326.71
+ - Ongeldige RIZIV: 1-00183-18-000
+
+Lijn: 576
+Inhoud: 85.10.15-129.15;VANDERVORST;CLAUDE;1-44502-28-780;{PSYC};{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 85.10.15-129.15
+ - Ongeldige RIZIV: 1-44502-28-780
+
+Lijn: 577
+Inhoud: 94.11.24-226.38;VANDORMAEL;SOFIE;1-82346-14-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 94.11.24-226.38
+ - Ongeldige RIZIV: 1-82346-14-180
+
+Lijn: 578
+Inhoud: 37.03.29-071.51;VANDUYNHOVEN;PHILIPPE;1-49056-33-730;{CARD};{ORTH}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 37.03.29-071.51
+ - Ongeldige RIZIV: 1-49056-33-730
+
+Lijn: 579
+Inhoud: 78.10.02-074.22;VANDUYNSLAGER;JOHAN;1-42680-07-690;{PEDI};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.10.02-074.22
+ - Ongeldige RIZIV: 1-42680-07-690
+
+Lijn: 580
+Inhoud: 49.09.07-346.51;VANFLETEREN;MATHIEU;1-36598-75-780;{PSYC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.09.07-346.51
+ - Ongeldige RIZIV: 1-36598-75-780
+
+Lijn: 581
+Inhoud: 76.03.08-580.21;VANGENEUGDEN;JOLIEN;1-10351-09-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 76.03.08-580.21
+ - Ongeldige RIZIV: 1-10351-09-000
+
+Lijn: 582
+Inhoud: 78.04.25-861.55;VANHESTE;RUBEN;1-47560-74-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.04.25-861.55
+ - Ongeldige RIZIV: 1-47560-74-000
+
+Lijn: 583
+Inhoud: 99.01.16-750.80;VANHOLDER;INEZ;1-82311-49-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.01.16-750.80
+ - Ongeldige RIZIV: 1-82311-49-000
+
+Lijn: 584
+Inhoud: 89.05.16-694.51;VANHONSEBROUCK;FABIENNE;1-08191-61-730;{CARD};{URGE}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 89.05.16-694.51
+ - Ongeldige RIZIV: 1-08191-61-730
+
+Lijn: 585
+Inhoud: 93.06.11-531.67;VANOVERBEKE;HANS;1-46095-84-140;{CHIR};{NEUR}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.06.11-531.67
+ - Ongeldige RIZIV: 1-46095-84-140
+
+Lijn: 586
+Inhoud: 59.08.28-878.62;VANPAEMEL;GODELIEVE;1-07468-08-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.08.28-878.62
+ - Ongeldige RIZIV: 1-07468-08-480
+
+Lijn: 587
+Inhoud: 36.07.20-839.45;VELTHOF;LARS;1-03120-31-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.07.20-839.45
+ - Ongeldige RIZIV: 1-03120-31-000
+
+Lijn: 588
+Inhoud: 01.06.11-153.71;VERBEECK;ANNABELLE;1-99588-38-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 01.06.11-153.71
+ - Ongeldige RIZIV: 1-99588-38-588
+
+Lijn: 589
+Inhoud: 51.04.25-411.35;VERDOODT;AN;1-98813-37-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.04.25-411.35
+ - Ongeldige RIZIV: 1-98813-37-000
+
+Lijn: 590
+Inhoud: 92.09.21-937.40;VERGAERT;AN;1-47684-47-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.09.21-937.40
+ - Ongeldige RIZIV: 1-47684-47-770
+
+Lijn: 591
+Inhoud: 72.03.09-209.84;VERGOTE;LIEVEN;1-17116-60-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 72.03.09-209.84
+ - Ongeldige RIZIV: 1-17116-60-180
+
+Lijn: 592
+Inhoud: 62.12.05-084.85;VERGOTTE;MARIE;1-04809-33-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 62.12.05-084.85
+ - Ongeldige RIZIV: 1-04809-33-770
+
+Lijn: 593
+Inhoud: 88.05.14-439.54;VERHAEGHE;BENEDICTE;1-47105-44-410;{ORL};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 88.05.14-439.54
+ - Ongeldige RIZIV: 1-47105-44-410
+
+Lijn: 594
+Inhoud: 44.08.23-251.39;VERHAEGHE;VEERLE;1-36767-03-340;{GYNA};{ORTH}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.08.23-251.39
+ - Ongeldige RIZIV: 1-36767-03-340
+
+Lijn: 595
+Inhoud: 56.11.26-884.74;VERHAEGHE;WIM;1-47794-34-520;{STOM};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.11.26-884.74
+ - Ongeldige RIZIV: 1-47794-34-520
+
+Lijn: 596
+Inhoud: 92.09.10-749.73;VERHAEGHEN;DAVID;1-47084-65-100;{ANES};{NEUR}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 92.09.10-749.73
+ - Ongeldige RIZIV: 1-47084-65-100
+
+Lijn: 597
+Inhoud: 67.10.17-186.05;VERHELLEN;EVA;1-36815-52-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 67.10.17-186.05
+ - Ongeldige RIZIV: 1-36815-52-770
+
+Lijn: 598
+Inhoud: 56.02.01-275.12;VERHOEVEN;NADINE;1-44918-97-340;{GYNA};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 56.02.01-275.12
+ - Ongeldige RIZIV: 1-44918-97-340
+
+Lijn: 599
+Inhoud: 36.06.06-244.83;VERHULST;GUY;1-07513-60-340;{GYNA};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 36.06.06-244.83
+ - Ongeldige RIZIV: 1-07513-60-340
+
+Lijn: 600
+Inhoud: 02.01.29-418.71;VERLEYSEN;ANDREAS;1-44338-95-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.01.29-418.71
+ - Ongeldige RIZIV: 1-44338-95-588
+
+Lijn: 601
+Inhoud: 93.01.23-749.36;VERLEYSEN;JOKE;1-48557-47-480;{ORTH};{ORTH}|{RADI}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.01.23-749.36
+ - Ongeldige RIZIV: 1-48557-47-480
+
+Lijn: 602
+Inhoud: 30.09.29-549.50;VERLINDEN;SOFIE;1-73454-79-780;{PSYC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 30.09.29-549.50
+ - Ongeldige RIZIV: 1-73454-79-780
+
+Lijn: 603
+Inhoud: 71.06.29-586.77;VERMEERSCH;GUIDO;1-44688-36-830;{REVA};{URGE}|{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.06.29-586.77
+ - Ongeldige RIZIV: 1-44688-36-830
+
+Lijn: 604
+Inhoud: 99.08.13-729.46;VERPLANCKE;THIERRY;1-46968-84-000;{PAAN};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.08.13-729.46
+ - Ongeldige RIZIV: 1-46968-84-000
+
+Lijn: 605
+Inhoud: 44.04.16-044.40;VERSTRAETEN;TOM;1-36997-64-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 44.04.16-044.40
+ - Ongeldige RIZIV: 1-36997-64-180
+
+Lijn: 606
+Inhoud: 81.02.19-354.15;VERSTREKEN;SOFIE;1-09282-37-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 81.02.19-354.15
+ - Ongeldige RIZIV: 1-09282-37-588
+
+Lijn: 607
+Inhoud: 32.04.03-886.15;VEYS;NIC;1-45094-18-590;{NEFR};{PAAN}
+Fouten:
+ - Ongeldig RijksregisterNr: 32.04.03-886.15
+ - Ongeldige RIZIV: 1-45094-18-590
+
+Lijn: 608
+Inhoud: 78.05.21-545.13;VIAENE;DRIES;1-19639-59-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 78.05.21-545.13
+ - Ongeldige RIZIV: 1-19639-59-960
+
+Lijn: 609
+Inhoud: 46.04.27-062.25;VIEREN;MARLEEN;1-08449-94-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 46.04.27-062.25
+ - Ongeldige RIZIV: 1-08449-94-770
+
+Lijn: 610
+Inhoud: 97.04.08-561.03;VINKEN;STEFANIE;1-76076-76-583;{ENDO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 97.04.08-561.03
+ - Ongeldige RIZIV: 1-76076-76-583
+
+Lijn: 611
+Inhoud: 48.12.28-050.08;VLUMMENS;PHILIP;1-48139-77-598;{HEMA};{ORTH}
+Fouten:
+ - Ongeldig RijksregisterNr: 48.12.28-050.08
+ - Ongeldige RIZIV: 1-48139-77-598
+
+Lijn: 612
+Inhoud: 02.05.24-156.68;VOLCKE;JOLIEN;1-99589-37-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 02.05.24-156.68
+ - Ongeldige RIZIV: 1-99589-37-000
+
+Lijn: 613
+Inhoud: 90.01.02-200.85;VONCK;LIEN;1-47742-86-340;{GYNA};{PAAN}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 90.01.02-200.85
+ - Ongeldige RIZIV: 1-47742-86-340
+
+Lijn: 614
+Inhoud: 35.07.16-370.31;VULPE;ION;1-39267-25-100;{ANES};{ONCO}|{PAAN}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 35.07.16-370.31
+ - Ongeldige RIZIV: 1-39267-25-100
+
+Lijn: 615
+Inhoud: 49.05.24-168.79;WALCOT;NICHOLAS;1-82086-80-660;{ONCO};{ONCO}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 49.05.24-168.79
+ - Ongeldige RIZIV: 1-82086-80-660
+
+Lijn: 616
+Inhoud: 68.09.08-369.09;WALSCHAP;DIMITRI;1-47097-52-180;{GERC};{GERC}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.09.08-369.09
+ - Ongeldige RIZIV: 1-47097-52-180
+
+Lijn: 617
+Inhoud: 65.12.07-240.29;WATRIPONT;PATRICK;1-44966-49-620;{PNEU};{GERC}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 65.12.07-240.29
+ - Ongeldige RIZIV: 1-44966-49-620
+
+Lijn: 618
+Inhoud: 61.05.02-722.49;WAUTERS;FEMKE;1-03652-33-588;{GAST};{GASTG}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 61.05.02-722.49
+ - Ongeldige RIZIV: 1-03652-33-588
+
+Lijn: 619
+Inhoud: 69.03.17-848.15;WIELS;WIETSE;1-79081-78-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 69.03.17-848.15
+ - Ongeldige RIZIV: 1-79081-78-770
+
+Lijn: 620
+Inhoud: 60.04.30-132.62;WIERCKX;KATRIEN;1-48214-02-583;{ENDO};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 60.04.30-132.62
+ - Ongeldige RIZIV: 1-48214-02-583
+
+Lijn: 621
+Inhoud: 93.11.22-672.19;WILGENHOF;ADRIAAN;1-99466-63-730;{CARD};{NEUR}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 93.11.22-672.19
+ - Ongeldige RIZIV: 1-99466-63-730
+
+Lijn: 622
+Inhoud: 68.11.14-828.63;WILLAERT;BART;1-36644-29-140;{CHIR};{PAAN}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 68.11.14-828.63
+ - Ongeldige RIZIV: 1-36644-29-140
+
+Lijn: 623
+Inhoud: 91.10.29-952.62;WILLEMSEN;PIETER;1-47616-18-450;{UROL};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 91.10.29-952.62
+ - Ongeldige RIZIV: 1-47616-18-450
+
+Lijn: 624
+Inhoud: 96.02.07-057.17;WIRTZ;MICHEL;1-77308-08-450;{UROL};{ORTH}|{RADI}|{ONCO}
+Fouten:
+ - Ongeldig RijksregisterNr: 96.02.07-057.17
+ - Ongeldige RIZIV: 1-77308-08-450
+
+Lijn: 625
+Inhoud: 59.01.08-542.76;WISSAERT;WIM;1-46846-12-770;{NEUR};{NEUR}|{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 59.01.08-542.76
+ - Ongeldige RIZIV: 1-46846-12-770
+
+Lijn: 626
+Inhoud: 71.07.23-486.73;WOUTERS;STIJN;1-35957-37-960;{RADO};{RADI}
+Fouten:
+ - Ongeldig RijksregisterNr: 71.07.23-486.73
+ - Ongeldige RIZIV: 1-35957-37-960
+
+Lijn: 627
+Inhoud: 99.10.16-077.40;WYFFELS;ERIC;1-08837-94-730;{CARD};{ONCO}|{RADI}|{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 99.10.16-077.40
+ - Ongeldige RIZIV: 1-08837-94-730
+
+Lijn: 628
+Inhoud: 41.04.10-553.36;ZAMAN;ELINE;1-37922-12-780;{PSYC};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 41.04.10-553.36
+ - Ongeldige RIZIV: 1-37922-12-780
+
+Lijn: 629
+Inhoud: 51.06.30-062.54;ZURMATI;AHMAD;1-79819-19-000;{URGE};{URGE}
+Fouten:
+ - Ongeldig RijksregisterNr: 51.06.30-062.54
+ - Ongeldige RIZIV: 1-79819-19-000
+
+Lijn: 630
+Inhoud: 34.11.30-389.84;ZWAENEPOEL;TOM;1-00153-48-790;{REUM};{GASTG}
+Fouten:
+ - Ongeldig RijksregisterNr: 34.11.30-389.84
+ - Ongeldige RIZIV: 1-00153-48-790
+
