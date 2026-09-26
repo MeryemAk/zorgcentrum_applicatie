@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\zorgcentrumSolution.Domain.csproj",
+      "projectUniqueName": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\zorgcentrumSolution.Domain.csproj",
       "projectName": "zorgcentrumSolution.Domain",
-      "projectPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\zorgcentrumSolution.Domain.csproj",
+      "projectPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\zorgcentrumSolution.Domain.csproj",
       "packagesPath": "C:\\Users\\merye\\.nuget\\packages\\",
-      "outputPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\obj\\",
+      "outputPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\zorgcentrumSolution.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merye\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\BuildingBlocks\\BuildingBlocks.csproj",
+      "projectUniqueName": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\BuildingBlocks\\BuildingBlocks.csproj",
       "projectName": "BuildingBlocks",
-      "projectPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\BuildingBlocks\\BuildingBlocks.csproj",
+      "projectPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\BuildingBlocks\\BuildingBlocks.csproj",
       "packagesPath": "C:\\Users\\merye\\.nuget\\packages\\",
-      "outputPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrumSolution\\BuildingBlocks\\obj\\",
+      "outputPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\BuildingBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merye\\AppData\\Roaming\\NuGet\\NuGet.Config",
