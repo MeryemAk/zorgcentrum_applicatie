@@ -7,7 +7,7 @@ using zorgcentrumSolution.Domain.Person;
 
 namespace zorgcentrumSolution.Domain.Input;
 
-public static class Foutbestand {
+public static class Foutbestand { // in aparte class library?
     public static void SchrijfFoutbestand(string pad, List<Error> errors) {
         // bestand leegmaken
         File.WriteAllText(pad, "");
@@ -73,7 +73,7 @@ public class RobuustheidAfspraken {
 
             // extra 2
 
-            if (foutmeldingen.Count > 0) {
+            if (foutmeldingen.Count > 0) { // if foutmeldingen.Any() kan ook gebruikt worden
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
             }
@@ -99,7 +99,7 @@ public class RobuustheidArtsen {
     public List<arts> Arts = new();
     public List<Error> errors = new();
     public RobuustheidArtsen() {
-        string bestandnaam = @"B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
+        string bestandnaam = @"C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));

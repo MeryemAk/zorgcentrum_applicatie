@@ -19,3 +19,24 @@ B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.pdb
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.genruntimeconfig.cache
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\ref\zorgcentrumSolution.App.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.App.exe
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.App.deps.json
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.App.runtimeconfig.json
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.App.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.App.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\BuildingBlocks.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.Domain.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\zorgcentrumSolution.Domain.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\bin\Debug\net10.0\BuildingBlocks.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.csproj.AssemblyReference.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.AssemblyInfoInputs.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.AssemblyInfo.cs
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.csproj.CoreCompileInputs.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.sourcelink.json
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcent.CB72B780.Up2Date
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\refint\zorgcentrumSolution.App.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\zorgcentrumSolution.App.genruntimeconfig.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.App\obj\Debug\net10.0\ref\zorgcentrumSolution.App.dll

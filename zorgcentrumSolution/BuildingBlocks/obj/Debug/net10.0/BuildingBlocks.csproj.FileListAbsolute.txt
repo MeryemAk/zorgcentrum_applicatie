@@ -11,3 +11,15 @@ B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.pdb
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\ref\BuildingBlocks.dll
 B:\semester 2\programmeren_gevorderd\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\Building.E30AA46F.Up2Date
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\bin\Debug\net10.0\BuildingBlocks.deps.json
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\bin\Debug\net10.0\BuildingBlocks.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\bin\Debug\net10.0\BuildingBlocks.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.AssemblyInfo.cs
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.sourcelink.json
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\refint\BuildingBlocks.dll
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\BuildingBlocks.pdb
+C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\BuildingBlocks\obj\Debug\net10.0\ref\BuildingBlocks.dll

@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 
 namespace BuildingBlocks;
-public record Error { // error klasse aanpassen zodat lijn met fout getoond word + inhoud 
+public record Error {
     public int LijnNummer { get; }
     public string LijnInhoud { get; }
     public List<string> Beschrijving { get; }
@@ -21,7 +21,7 @@ public record Error { // error klasse aanpassen zodat lijn met fout getoond word
     }
 
     // input met 1 enkel foutmelding
-    public static Error Create(int lineNumber, string lineContent, string beschrijving) {
-        return new Error(lineNumber, lineContent, new List<string> { beschrijving });
+    public static Error Create(int lijnNummer, string lijnInhoud, string beschrijving) {
+        return new Error(lijnNummer, lijnInhoud, new List<string> { beschrijving });
     }
 }
