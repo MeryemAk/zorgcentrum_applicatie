@@ -77,7 +77,9 @@ public class RobuustheidAfspraken {
         }
     }
 }
-
+/// <summary>
+/// enkel onderste klopt momenteel!!
+/// </summary>
 public class RobuustheidArtsen {
     public List<Arts> Arts = new();
     public List<Error> errors = new();
@@ -93,17 +95,19 @@ public class RobuustheidArtsen {
             // start at index 1 to exclude header
             string regel = regels[index];
             string[] velden = regel.Split(";");
-            List<string> foutmeldingen = new();
 
             if (velden.Length < 6) {
                 errors.Add(Error.Create(index + 1, regel, "Te weinig velden"));
                 continue;
             }
 
+            List<string> foutmeldingen = new();
 
-            if (!int.TryParse(velden[0], out RRN rrn))
+            RRN rrn = RRN.Create(velden[0]);
+            if (rrn == null) {
                 foutmeldingen.Add($"Ongeldig RijksregisterNr: {velden[0]}");
-            // rrn bevat puntjes en streepjes - controle herzien
+
+            };
 
             if (string.IsNullOrWhiteSpace(velden[1]))
                 foutmeldingen.Add($"Ongeldig naam: {velden[1]}");
