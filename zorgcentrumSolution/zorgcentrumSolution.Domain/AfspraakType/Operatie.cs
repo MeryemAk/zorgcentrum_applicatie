@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace zorgcentrumSolution.Domain.Afspraak {
-    internal class Controle {
+namespace zorgcentrumSolution.Domain.AfspraakType {
+    internal class Operatie {
     }
 }

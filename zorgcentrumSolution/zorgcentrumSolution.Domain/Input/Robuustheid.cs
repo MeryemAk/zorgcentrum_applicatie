@@ -1,13 +1,15 @@
 ﻿using BuildingBlocks;
+using BuildingBlocks.ValueObjects;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using zorgcentrumSolution.Domain.AfspraakType;
 using zorgcentrumSolution.Domain.Person;
 
 namespace zorgcentrumSolution.Domain.Input;
 
-public static class Foutbestand { // in aparte class library?
+public static class Foutbestand {
     public static void SchrijfFoutbestand(string pad, List<Error> errors) {
         // bestand leegmaken
         File.WriteAllText(pad, "");
@@ -26,7 +28,7 @@ public static class Foutbestand { // in aparte class library?
     }
 }
 public class RobuustheidAfspraken {
-    public List<afspraak> Afspraken = new();
+    public List<Afspraak> Afspraken = new();
     public List<Error> errors = new();
     public RobuustheidAfspraken() {
         string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Afspraken.csv");
@@ -54,7 +56,7 @@ public class RobuustheidAfspraken {
             if (!int.TryParse(velden[0], out int afspraakId))
                 foutmeldingen.Add($"Ongeldig afspraakId: {velden[0]}");
 
-            if (!Enum.TryParse(velden[1], out AfspraakType afspraakType))
+            if (!Enum.TryParse(velden[1], out string afspraakType))
                 foutmeldingen.Add($"Ongeldig afspraaktype: {velden[1]}");
 
             if (!DateTime.TryParse(velden[2], out DateTime start))
@@ -79,14 +81,14 @@ public class RobuustheidAfspraken {
             }
 
             // Maak afspraak indien alles voldoet
-            Afspraken.Add(new afspraak
+            Afspraken.Add(new Afspraak
             {
                 AfspraakId = afspraakId,
-                AfspraakType = Enum.Parse<AfspraakType>(velden[1]),
+                AfspraakType = velden[1],
                 DatumTijdStart = DateTime.Parse(velden[2]),
                 DuurMin = DateTime.Parse(velden[3]),
-                RRNPatient = int.Parse(velden[4]),
-                RRNArts = int.Parse(velden[5]),
+                //RRN = velden[4], 
+                //RRN = velden[5],
                 AfdelingCode = velden[6],
                 Extra1 = velden[7],
                 Extra2 = velden[8]
@@ -96,7 +98,7 @@ public class RobuustheidAfspraken {
 }
 
 public class RobuustheidArtsen {
-    public List<arts> Arts = new();
+    public List<Arts> Arts = new();
     public List<Error> errors = new();
     public RobuustheidArtsen() {
         string bestandnaam = @"C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
@@ -123,7 +125,7 @@ public class RobuustheidArtsen {
             }
 
 
-            if (!int.TryParse(velden[0], out int rrn))
+            if (!int.TryParse(velden[0], out RRN rrn))
                 foutmeldingen.Add($"Ongeldig RijksregisterNr: {velden[0]}");
             // rrn bevat puntjes en streepjes - controle herzien
 
@@ -133,9 +135,8 @@ public class RobuustheidArtsen {
             if (string.IsNullOrWhiteSpace(velden[2]))
                 foutmeldingen.Add($"Ongeldige voornaam: {velden[2]}");
 
-            if (!int.TryParse(velden[3], out int riziv))
+            if (!int.TryParse(velden[3], out RIZIV riziv))
                 foutmeldingen.Add($"Ongeldige RIZIV: {velden[3]}");
-            //riziv bevat streepjes - controle herzien
 
             if (string.IsNullOrWhiteSpace(velden[4]))
                 foutmeldingen.Add($"Ongeldig specialisatie: {velden[4]}");
@@ -149,7 +150,7 @@ public class RobuustheidArtsen {
             }
 
             // Maak arts object indien alles voldoet
-            Arts.Add(new arts(rrn, velden[1], velden[2], riziv, velden[4], velden[5]));
+            Arts.Add(new Arts(rrn, velden[1], velden[2], riziv, velden[4], velden[5]));
         }
         Foutbestand.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
     }

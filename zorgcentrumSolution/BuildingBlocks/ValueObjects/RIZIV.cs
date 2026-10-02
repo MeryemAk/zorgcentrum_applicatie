@@ -3,5 +3,5 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace BuildingBlocks.ValueObjects; 
-public class RIZIV {
+public record RIZIV {
 }

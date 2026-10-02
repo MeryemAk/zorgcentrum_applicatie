@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace zorgcentrumSolution.Domain.Afspraak; 
+namespace zorgcentrumSolution.Domain.AfspraakType; 
 public class Afspraak {
     public int AfspraakId {  get; set; }
     public string AfspraakType { get; set; }
