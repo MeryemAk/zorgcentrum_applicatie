@@ -1,14 +1,16 @@
-﻿using System;
+﻿using BuildingBlocks.ValueObjects;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace zorgcentrumSolution.Domain.Person; 
-public abstract class persoon : IComparable<persoon> {
+public abstract class Persoon : IComparable<Persoon> {
     public string Naam { get; set; }
     public string Voornaam { get; set; }
-    // public int RRN { get; set; }
-    // apart voor arts en patient of toch samen onder klasse persoon
-    public int CompareTo(persoon other) {
+    public RRN RNN { get; }
+    
+    public int CompareTo(Persoon other) {
         return Voornaam.CompareTo(other.Voornaam);
+        // vergelijking op basis van voornaam nu maar niet beter op RNN?
     }
 }
