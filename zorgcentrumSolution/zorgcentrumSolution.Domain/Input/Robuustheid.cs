@@ -84,25 +84,20 @@ public class RobuustheidArtsen {
     public RobuustheidArtsen() {
         string bestandnaam = @"C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
 
-        if (!File.Exists(bestandnaam)) {
-            errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
-            Fout.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
+        string[] regels = CSVLezer.LeesRegels(bestandnaam, "Fouten_Artsen.txt", errors); ;
+        if (regels.Length > 0) {
             return;
-        } // geef error indien bestand niet bestaat
+        };
 
-        string[] regels = File.ReadAllLines(bestandnaam);
-
-        for (int index = 0; index < regels.Length; index++) {
-
-            // exclude line 1 from input check
-
+        for (int index = 1; index < regels.Length; index++) {
+            // start at index 1 to exclude header
             string regel = regels[index];
             string[] velden = regel.Split(";");
-
             List<string> foutmeldingen = new();
 
             if (velden.Length < 6) {
-                foutmeldingen.Add("Te weinig velden");
+                errors.Add(Error.Create(index + 1, regel, "Te weinig velden"));
+                continue;
             }
 
 
