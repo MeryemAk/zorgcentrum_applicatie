@@ -8,25 +8,6 @@ using zorgcentrumSolution.Domain.AfspraakType;
 using zorgcentrumSolution.Domain.Person;
 
 namespace zorgcentrumSolution.Domain.Input;
-
-public static class Foutbestand {
-    public static void SchrijfFoutbestand(string pad, List<Error> errors) {
-        // bestand leegmaken
-        File.WriteAllText(pad, "");
-
-        foreach (var error in errors) {
-            File.AppendAllText(pad, $"Lijn: {error.LijnNummer}\n");
-            File.AppendAllText(pad, $"Inhoud: {error.LijnInhoud}\n");
-            File.AppendAllText(pad, "Fouten:\n");
-
-            foreach (var bericht in error.Beschrijving) {
-                File.AppendAllText(pad, $" - {bericht}\n");
-            }
-
-            File.AppendAllText(pad, "\n");
-        }
-    }
-}
 public class RobuustheidAfspraken {
     public List<Afspraak> Afspraken = new();
     public List<Error> errors = new();
@@ -35,7 +16,7 @@ public class RobuustheidAfspraken {
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
-            Foutbestand.SchrijfFoutbestand("Fouten_Afspraken.txt", errors);
+            Fout.SchrijfFoutbestand("Fouten_Afspraken.txt", errors);
             return;
         } // geef error indien bestand niet bestaat
 
@@ -105,7 +86,7 @@ public class RobuustheidArtsen {
 
         if (!File.Exists(bestandnaam)) {
             errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
-            Foutbestand.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
+            Fout.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
             return;
         } // geef error indien bestand niet bestaat
 
@@ -152,6 +133,6 @@ public class RobuustheidArtsen {
             // Maak arts object indien alles voldoet
             Arts.Add(new Arts(rrn, velden[1], velden[2], riziv, velden[4], velden[5]));
         }
-        Foutbestand.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
+        Fout.SchrijfFoutbestand("Fouten_Artsen.txt", errors);
     }
 }
