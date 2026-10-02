@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace zorgcentrumSolution.Domain; 
-public class afspraak {
+public class Afspraak {
     public int AfspraakId {  get; set; }
     public AfspraakType AfspraakType { get; set; }
     public DateTime DatumTijdStart { get; set; }
