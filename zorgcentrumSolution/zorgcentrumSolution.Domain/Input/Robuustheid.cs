@@ -15,7 +15,7 @@ public class RobuustheidAfspraken {
         string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Afspraken.csv");
 
         string[] regels = CSVLezer.LeesRegels(bestandnaam, "Fouten_Afspraken.txt", errors); ;
-        if (regels.Length > 0) {
+        if (regels.Length == 0) {
             return;
         }
 
@@ -33,13 +33,14 @@ public class RobuustheidAfspraken {
             if (!int.TryParse(velden[0], out int afspraakId))
                 foutmeldingen.Add($"Ongeldig afspraakId: {velden[0]}");
 
-            if (string.IsNullOrWhiteSpace(velden[1]))
-                foutmeldingen.Add($"Ongeldig afspraaktype: {velden[1]}");
+            string type = velden[1];
+            if (string.IsNullOrWhiteSpace(type))
+                foutmeldingen.Add($"Ongeldig afspraaktype: {type}");
 
             if (!DateTime.TryParse(velden[2], out DateTime start))
                 foutmeldingen.Add($"Ongeldige startdatum: {velden[2]}");
 
-            if (!DateTime.TryParse(velden[3], out DateTime duur))
+            if (!int.TryParse(velden[3], out int duur))
                 foutmeldingen.Add($"Ongeldige duur: {velden[3]}");
 
             RRN rrnPatient = RRN.Create(velden[4]);
@@ -50,21 +51,57 @@ public class RobuustheidAfspraken {
             RRN rrnArts = RRN.Create(velden[5]);
             if (rrnArts == null) {
                 foutmeldingen.Add($"Ongeldig RijksregisterNr Arts: {velden[5]}");
-            } // RRN in database zoeken??
+            }
 
-            if (string.IsNullOrWhiteSpace(velden[6]))
-                foutmeldingen.Add($"Extra 1 leeg: {velden[1]}");
+            string afdelingCode = velden[6];
+            if (string.IsNullOrWhiteSpace(afdelingCode))
+                foutmeldingen.Add("Afdelingscode is leeg");
 
-            if (string.IsNullOrWhiteSpace(velden[7]))
-                foutmeldingen.Add($"Extra 2 leeg: {velden[1]}");
+            string extra1 = velden[7];
+            string extra2 = velden[8];
 
-            if (foutmeldingen.Any()) {
+            // controle op juiste input van basisgegevens
+            if (foutmeldingen.Count > 0) {
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
             }
 
-            // Maak afspraak object indien alles voldoet
-            Afspraken.Add(new Afspraak(afspraakId, velden[1], DateTime.Parse(velden[2]), DateTime.Parse(velden[3]), rrnPatient, velden[6], velden[7], velden[8]));
+            // Maak afspraak per type indien alles voldoet
+            Afspraak nieuw = null;
+
+            if (type == "Operatie") {
+                if (string.IsNullOrWhiteSpace(extra1))
+                    foutmeldingen.Add("Beschrijving (Extra 1) is leeg");
+                else if (!int.TryParse(extra2, out int aanwezigheidMin))
+                    foutmeldingen.Add("Ongeldige aanwezigheidstijd (Extra2): " + extra2);
+                else
+                    nieuw = new Operatie(afspraakId, start, duur, rrnPatient, rrnArts, afdelingCode, extra1, aanwezigheidMin);
+
+            } else if (type == "Consultatie") {
+                nieuw = new Consultatie(afspraakId, start, duur, rrnPatient, rrnArts, afdelingCode);
+
+            } else if (type == "Controle") {
+                
+                if (!extra1.StartsWith("ref=")) {
+                    foutmeldingen.Add("Extra1 moet beginnen met ref=: " + extra1);
+                } else {
+                    string idTekst = extra1.Substring(4);   // alles na "ref=" (AI)
+                    if (!int.TryParse(idTekst, out int eerdereId)) {
+                        foutmeldingen.Add("Ongeldige referentie: " + extra1);
+                    } else {
+                        // afspraak dat hoort bij ref opzoeken via zoekAfspraak() method 
+                        nieuw = new Controle(afspraakId, start, duur, rrnPatient, rrnArts, afdelingCode, eerdereId);
+                    }
+                }
+
+            } else {
+                foutmeldingen.Add($"Onbekend afspraaktype: {type}");
+            }
+
+            if (foutmeldingen.Count > 0) {
+                errors.Add(Error.Create(index + 1, regel, foutmeldingen));
+                continue;
+            }
         }
     }
 }
@@ -76,7 +113,7 @@ public class RobuustheidArtsen {
         string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Artsen.csv");
 
         string[] regels = CSVLezer.LeesRegels(bestandnaam, "Fouten_Artsen.txt", errors); ;
-        if (regels.Length > 0) {
+        if (regels.Length == 0) {
             return;
         };
 
@@ -114,7 +151,7 @@ public class RobuustheidArtsen {
             if (string.IsNullOrWhiteSpace(velden[5]))
                 foutmeldingen.Add($"Ongeldig afdeling: {velden[5]}");
 
-            if (foutmeldingen.Any()) {
+            if (foutmeldingen.Count > 0) {
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
             }
