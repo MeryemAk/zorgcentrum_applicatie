@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXo0KfX34Gw=",
+  "dgSpecHash": "SGNxRKCEyKk=",
   "success": true,
-  "projectFilePath": "C:\\school\\semester1\\programmeren_gevorderd1\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
+  "projectFilePath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merye\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\merye\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

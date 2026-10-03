@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zorgcentrumSolution.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f5ae18081478fc5b9f66d8a0ee1696b5c0e784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f166e9487b5b83aa239ae341d5b569f31dcb262a")]
 [assembly: System.Reflection.AssemblyProductAttribute("zorgcentrumSolution.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zorgcentrumSolution.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

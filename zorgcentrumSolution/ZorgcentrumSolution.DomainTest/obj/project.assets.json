@@ -919,11 +919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\school\\semester1\\programmeren_gevorderd1\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
+      "projectUniqueName": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
       "projectName": "ZorgcentrumSolution.DomainTest",
-      "projectPath": "C:\\school\\semester1\\programmeren_gevorderd1\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
+      "projectPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\ZorgcentrumSolution.DomainTest.csproj",
       "packagesPath": "C:\\Users\\merye\\.nuget\\packages\\",
-      "outputPath": "C:\\school\\semester1\\programmeren_gevorderd1\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\obj\\",
+      "outputPath": "B:\\semester 2\\programmeren_gevorderd\\zorgcentrum_applicatie\\zorgcentrumSolution\\ZorgcentrumSolution.DomainTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\merye\\AppData\\Roaming\\NuGet\\NuGet.Config",
