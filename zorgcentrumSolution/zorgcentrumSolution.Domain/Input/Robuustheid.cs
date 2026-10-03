@@ -14,30 +14,26 @@ public class RobuustheidAfspraken {
     public RobuustheidAfspraken() {
         string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Afspraken.csv");
 
-        if (!File.Exists(bestandnaam)) {
-            errors.Add(Error.Create(0, "", "Bestand bestaat niet"));
-            Fout.SchrijfFoutbestand("Fouten_Afspraken.txt", errors);
+        string[] regels = CSVLezer.LeesRegels(bestandnaam, "Fouten_Afspraken.txt", errors); ;
+        if (regels.Length > 0) {
             return;
-        } // geef error indien bestand niet bestaat
+        }
 
-        string[] regels = File.ReadAllLines(bestandnaam);
-
-        for (int index = 0; index < regels.Length; index++) {
-
+        for (int index = 1; index < regels.Length; index++) {
+            // start at index 1 to exclude header
             string regel = regels[index];
             string[] velden = regel.Split(";");
 
             List<string> foutmeldingen = new();
 
-            if (velden.Length < 9) { // extra 1 en 2 soms leeg?? hoe behandelen?
+            if (velden.Length < 9) {
                 foutmeldingen.Add("Te weinig velden");
             }
-
 
             if (!int.TryParse(velden[0], out int afspraakId))
                 foutmeldingen.Add($"Ongeldig afspraakId: {velden[0]}");
 
-            if (!Enum.TryParse(velden[1], out string afspraakType))
+            if (string.IsNullOrWhiteSpace(velden[1]))
                 foutmeldingen.Add($"Ongeldig afspraaktype: {velden[1]}");
 
             if (!DateTime.TryParse(velden[2], out DateTime start))
@@ -46,45 +42,38 @@ public class RobuustheidAfspraken {
             if (!DateTime.TryParse(velden[3], out DateTime duur))
                 foutmeldingen.Add($"Ongeldige duur: {velden[3]}");
 
-            if (!int.TryParse(velden[4], out int rrnPatient))
-                foutmeldingen.Add($"Ongeldig RRN patiënt: {velden[4]}");
+            RRN rrnPatient = RRN.Create(velden[4]);
+            if (rrnPatient == null) {
+                foutmeldingen.Add($"Ongeldig RijksregisterNr Patient: {velden[4]}");
+            }
 
-            if (!int.TryParse(velden[5], out int rrnArts))
-                foutmeldingen.Add($"Ongeldig RRN arts: {velden[5]}");
+            RRN rrnArts = RRN.Create(velden[5]);
+            if (rrnArts == null) {
+                foutmeldingen.Add($"Ongeldig RijksregisterNr Arts: {velden[5]}");
+            } // RRN in database zoeken??
 
-            // extra 1
+            if (string.IsNullOrWhiteSpace(velden[6]))
+                foutmeldingen.Add($"Extra 1 leeg: {velden[1]}");
 
-            // extra 2
+            if (string.IsNullOrWhiteSpace(velden[7]))
+                foutmeldingen.Add($"Extra 2 leeg: {velden[1]}");
 
-            if (foutmeldingen.Count > 0) { // if foutmeldingen.Any() kan ook gebruikt worden
+            if (foutmeldingen.Any()) {
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
             }
 
-            // Maak afspraak indien alles voldoet
-            Afspraken.Add(new Afspraak
-            {
-                AfspraakId = afspraakId,
-                AfspraakType = velden[1],
-                DatumTijdStart = DateTime.Parse(velden[2]),
-                DuurMin = DateTime.Parse(velden[3]),
-                //RRN = velden[4], 
-                //RRN = velden[5],
-                AfdelingCode = velden[6],
-                Extra1 = velden[7],
-                Extra2 = velden[8]
-            });
+            // Maak afspraak object indien alles voldoet
+            Afspraken.Add(new Afspraak(afspraakId, velden[1], DateTime.Parse(velden[2]), DateTime.Parse(velden[3]), rrnPatient, velden[6], velden[7], velden[8]));
         }
     }
 }
-/// <summary>
-/// enkel onderste klopt momenteel!!
-/// </summary>
+
 public class RobuustheidArtsen {
     public List<Arts> Arts = new();
     public List<Error> errors = new();
     public RobuustheidArtsen() {
-        string bestandnaam = @"C:\school\semester1\programmeren_gevorderd1\zorgcentrum_applicatie\zorgcentrumSolution\zorgcentrumSolution.Domain\Input\Artsen.csv";
+        string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Artsen.csv");
 
         string[] regels = CSVLezer.LeesRegels(bestandnaam, "Fouten_Artsen.txt", errors); ;
         if (regels.Length > 0) {
@@ -106,8 +95,7 @@ public class RobuustheidArtsen {
             RRN rrn = RRN.Create(velden[0]);
             if (rrn == null) {
                 foutmeldingen.Add($"Ongeldig RijksregisterNr: {velden[0]}");
-
-            };
+            }
 
             if (string.IsNullOrWhiteSpace(velden[1]))
                 foutmeldingen.Add($"Ongeldig naam: {velden[1]}");
@@ -115,8 +103,10 @@ public class RobuustheidArtsen {
             if (string.IsNullOrWhiteSpace(velden[2]))
                 foutmeldingen.Add($"Ongeldige voornaam: {velden[2]}");
 
-            if (!int.TryParse(velden[3], out RIZIV riziv))
-                foutmeldingen.Add($"Ongeldige RIZIV: {velden[3]}");
+            RIZIV riziv = RIZIV.Create(velden[0]);
+            if (riziv == null) {
+                foutmeldingen.Add($"Ongeldig RIZIV: {velden[0]}");
+            }
 
             if (string.IsNullOrWhiteSpace(velden[4]))
                 foutmeldingen.Add($"Ongeldig specialisatie: {velden[4]}");
@@ -124,7 +114,7 @@ public class RobuustheidArtsen {
             if (string.IsNullOrWhiteSpace(velden[5]))
                 foutmeldingen.Add($"Ongeldig afdeling: {velden[5]}");
 
-            if (foutmeldingen.Count > 0) {
+            if (foutmeldingen.Any()) {
                 errors.Add(Error.Create(index + 1, regel, foutmeldingen));
                 continue;
             }
