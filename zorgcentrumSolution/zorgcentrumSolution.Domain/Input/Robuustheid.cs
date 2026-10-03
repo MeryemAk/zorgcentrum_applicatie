@@ -9,7 +9,6 @@ using zorgcentrumSolution.Domain.Person;
 
 namespace zorgcentrumSolution.Domain.Input;
 public class RobuustheidAfspraken {
-    public List<Afspraak> Afspraken = new();
     public List<Error> errors = new();
     public RobuustheidAfspraken() {
         string bestandnaam = Path.Combine(Environment.CurrentDirectory, "Input", "Afspraken.csv");
