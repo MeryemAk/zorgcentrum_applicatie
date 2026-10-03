@@ -6,4 +6,5 @@
     <Project Path="zorgcentrumSolution.Domain/zorgcentrumSolution.Domain.csproj" />
   </Folder>
   <Project Path="zorgcentrumSolution.App/zorgcentrumSolution.App.csproj" Id="9b9e8413-e67b-4baf-9d93-42db2c269025" />
+  <Project Path="zorgcentrumSolution.DomainTest/zorgcentrumSolution.DomainTest.csproj" Id="9a9a0a47-e428-4da0-b76b-15e079607fb9" />
 </Solution>
